@@ -1,0 +1,22 @@
+{
+  "name": "we-feel-extract",
+  "version": "1.0.0",
+  "description": "JS Scripts to extract data from http://wefeel.csiro.au/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beekpower/we-feel-extract.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/beekpower/we-feel-extract/issues"
+  },
+  "homepage": "https://github.com/beekpower/we-feel-extract#readme",
+  "dependencies": {
+    "axios": "^0.19.2"
+  }
+}
