@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/beekpower/we-feel-extract#readme",
   "dependencies": {
-    "axios": "^0.19.2"
+    "axios": "^0.19.2",
+    "moment": "^2.26.0"
   }
 }
