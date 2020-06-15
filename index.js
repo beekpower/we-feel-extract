@@ -1,10 +1,14 @@
 const axios = require('axios');
 const moment = require('moment');
+const fs = require('fs');
+
 
 const startDate = moment('01-06-2020', 'DD-MM-YYYY');
 
 (async () => {
-  for (let offsetDays = 0; offsetDays < 30; offsetDays++) {
+  const data = [];
+
+  for (let offsetDays = 0; offsetDays < 5; offsetDays++) {
     const offsetDate = startDate.clone().add(offsetDays, 'days');
 
     const startTime = offsetDate.valueOf();
@@ -16,8 +20,16 @@ const startDate = moment('01-06-2020', 'DD-MM-YYYY');
         end: endTime
       }
     });
-    response.data.date = offsetDate;
-    console.log(JSON.stringify(response.data, null, 2));
-  } 
+console.log(response.data)
+    const total = response.data['*'];
+    const fear = response.data.fear;
+    const percentage = fear / total;
 
+
+    data.push({
+      date: offsetDate,
+      value: percentage
+    });
+  } 
+  console.log(JSON.stringify(data, null, 2));
 })();
