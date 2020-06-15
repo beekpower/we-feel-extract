@@ -13,7 +13,7 @@ const endDate = moment('31-05-2020', 'DD-MM-YYYY');
       granularity: 'hour',
       start: startDate.valueOf(),
       end: endDate.valueOf(),
-      continent: 'northAmerica'
+      // continent: 'northAmerica'
     }
   });
 
