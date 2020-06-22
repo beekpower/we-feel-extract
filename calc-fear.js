@@ -2,10 +2,6 @@ const axios = require('axios');
 const moment = require('moment');
 const fs = require('fs');
 
-
-const startDate = moment('01-01-2020', 'DD-MM-YYYY');
-const endDate = moment('31-05-2020', 'DD-MM-YYYY');
-
 (async () => {
 
   const response = await axios.get('http://wefeel.csiro.au/api/emotions/primary/timepoints', {
