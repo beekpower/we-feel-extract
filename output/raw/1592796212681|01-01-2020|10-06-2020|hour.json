@@ -1,0 +1,7877 @@
+[
+  {
+    "start": "Mon May 25 14:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Mon May 25 03:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Tue May 26 03:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1260314,
+      "anger": 71871,
+      "fear": 58626,
+      "joy": 755485,
+      "love": 117394,
+      "other": 266999,
+      "sadness": 274698,
+      "surprise": 80660
+    }
+  },
+  {
+    "start": "Mon May 25 15:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Mon May 25 04:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Tue May 26 04:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1762382,
+      "anger": 104659,
+      "fear": 96766,
+      "joy": 1036371,
+      "love": 154667,
+      "other": 362478,
+      "sadness": 398525,
+      "surprise": 112599
+    }
+  },
+  {
+    "start": "Mon May 25 16:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Mon May 25 05:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Tue May 26 05:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1572149,
+      "anger": 100810,
+      "fear": 100568,
+      "joy": 878017,
+      "love": 122036,
+      "other": 315506,
+      "sadness": 350746,
+      "surprise": 97311
+    }
+  },
+  {
+    "start": "Mon May 25 17:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Mon May 25 06:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Tue May 26 06:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1439601,
+      "anger": 88443,
+      "fear": 79832,
+      "joy": 813883,
+      "love": 112321,
+      "other": 285195,
+      "sadness": 308528,
+      "surprise": 89287
+    }
+  },
+  {
+    "start": "Mon May 25 18:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Mon May 25 07:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Tue May 26 07:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1389044,
+      "anger": 84968,
+      "fear": 71330,
+      "joy": 777540,
+      "love": 105156,
+      "other": 279028,
+      "sadness": 309187,
+      "surprise": 86847
+    }
+  },
+  {
+    "start": "Mon May 25 19:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Mon May 25 08:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Tue May 26 08:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1343379,
+      "anger": 78430,
+      "fear": 67830,
+      "joy": 757570,
+      "love": 102238,
+      "other": 265293,
+      "sadness": 293589,
+      "surprise": 84703
+    }
+  },
+  {
+    "start": "Mon May 25 20:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Mon May 25 09:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Tue May 26 09:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1310595,
+      "anger": 76975,
+      "fear": 65193,
+      "joy": 734693,
+      "love": 97114,
+      "other": 266925,
+      "sadness": 278586,
+      "surprise": 87242
+    }
+  },
+  {
+    "start": "Mon May 25 21:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Mon May 25 10:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Tue May 26 10:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1281548,
+      "anger": 73779,
+      "fear": 62683,
+      "joy": 726070,
+      "love": 94620,
+      "other": 252017,
+      "sadness": 272348,
+      "surprise": 84323
+    }
+  },
+  {
+    "start": "Mon May 25 22:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Mon May 25 11:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Tue May 26 11:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1246569,
+      "anger": 70566,
+      "fear": 61535,
+      "joy": 707257,
+      "love": 92744,
+      "other": 243588,
+      "sadness": 261918,
+      "surprise": 82146
+    }
+  },
+  {
+    "start": "Mon May 25 23:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Mon May 25 12:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Tue May 26 12:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1217181,
+      "anger": 66425,
+      "fear": 57661,
+      "joy": 691521,
+      "love": 91090,
+      "other": 239152,
+      "sadness": 254111,
+      "surprise": 80120
+    }
+  },
+  {
+    "start": "Tue May 26 00:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Mon May 25 13:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Tue May 26 13:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1215844,
+      "anger": 65115,
+      "fear": 56795,
+      "joy": 691993,
+      "love": 86735,
+      "other": 236949,
+      "sadness": 252390,
+      "surprise": 79677
+    }
+  },
+  {
+    "start": "Tue May 26 01:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Mon May 25 14:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Tue May 26 14:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1232547,
+      "anger": 67376,
+      "fear": 57670,
+      "joy": 704145,
+      "love": 87516,
+      "other": 236710,
+      "sadness": 253103,
+      "surprise": 81203
+    }
+  },
+  {
+    "start": "Tue May 26 02:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Mon May 25 15:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Tue May 26 15:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1242165,
+      "anger": 70755,
+      "fear": 59575,
+      "joy": 704033,
+      "love": 85709,
+      "other": 238808,
+      "sadness": 256809,
+      "surprise": 81819
+    }
+  },
+  {
+    "start": "Tue May 26 03:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Mon May 25 16:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Tue May 26 16:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1223633,
+      "anger": 71270,
+      "fear": 56716,
+      "joy": 694874,
+      "love": 85578,
+      "other": 232538,
+      "sadness": 250484,
+      "surprise": 80411
+    }
+  },
+  {
+    "start": "Tue May 26 04:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Mon May 25 17:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Tue May 26 17:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1180706,
+      "anger": 67118,
+      "fear": 54137,
+      "joy": 677452,
+      "love": 87429,
+      "other": 231519,
+      "sadness": 234025,
+      "surprise": 77260
+    }
+  },
+  {
+    "start": "Tue May 26 05:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Mon May 25 18:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Tue May 26 18:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1123254,
+      "anger": 62097,
+      "fear": 50386,
+      "joy": 642612,
+      "love": 83850,
+      "other": 219401,
+      "sadness": 224706,
+      "surprise": 72504
+    }
+  },
+  {
+    "start": "Tue May 26 06:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Mon May 25 19:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Tue May 26 19:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1090613,
+      "anger": 58066,
+      "fear": 48421,
+      "joy": 633980,
+      "love": 80388,
+      "other": 209762,
+      "sadness": 214110,
+      "surprise": 68905
+    }
+  },
+  {
+    "start": "Tue May 26 07:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Mon May 25 20:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Tue May 26 20:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1053448,
+      "anger": 54560,
+      "fear": 45545,
+      "joy": 617452,
+      "love": 80799,
+      "other": 199829,
+      "sadness": 202781,
+      "surprise": 65197
+    }
+  },
+  {
+    "start": "Tue May 26 08:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Mon May 25 21:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Tue May 26 21:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1010700,
+      "anger": 50423,
+      "fear": 43140,
+      "joy": 593775,
+      "love": 73547,
+      "other": 195983,
+      "sadness": 189592,
+      "surprise": 62160
+    }
+  },
+  {
+    "start": "Tue May 26 09:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Mon May 25 22:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Tue May 26 22:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1018981,
+      "anger": 47549,
+      "fear": 42197,
+      "joy": 604968,
+      "love": 76424,
+      "other": 196368,
+      "sadness": 185138,
+      "surprise": 65721
+    }
+  },
+  {
+    "start": "Tue May 26 10:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Mon May 25 23:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Tue May 26 23:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1060448,
+      "anger": 49859,
+      "fear": 43666,
+      "joy": 634408,
+      "love": 81535,
+      "other": 195070,
+      "sadness": 198715,
+      "surprise": 69014
+    }
+  },
+  {
+    "start": "Tue May 26 11:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Tue May 26 00:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Wed May 27 00:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1139666,
+      "anger": 55133,
+      "fear": 49941,
+      "joy": 674459,
+      "love": 92384,
+      "other": 214953,
+      "sadness": 214974,
+      "surprise": 75927
+    }
+  },
+  {
+    "start": "Tue May 26 12:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Tue May 26 01:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Wed May 27 01:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1259800,
+      "anger": 64594,
+      "fear": 56384,
+      "joy": 728478,
+      "love": 95561,
+      "other": 235114,
+      "sadness": 257451,
+      "surprise": 82894
+    }
+  },
+  {
+    "start": "Tue May 26 13:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Tue May 26 02:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Wed May 27 02:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1345697,
+      "anger": 77853,
+      "fear": 62088,
+      "joy": 767752,
+      "love": 101941,
+      "other": 253360,
+      "sadness": 287127,
+      "surprise": 83669
+    }
+  },
+  {
+    "start": "Tue May 26 14:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Tue May 26 03:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Wed May 27 03:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1684437,
+      "anger": 106895,
+      "fear": 86000,
+      "joy": 985629,
+      "love": 140292,
+      "other": 330152,
+      "sadness": 385378,
+      "surprise": 109578
+    }
+  },
+  {
+    "start": "Tue May 26 15:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Tue May 26 04:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Wed May 27 04:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1699696,
+      "anger": 110926,
+      "fear": 82495,
+      "joy": 993009,
+      "love": 142111,
+      "other": 338142,
+      "sadness": 394333,
+      "surprise": 112016
+    }
+  },
+  {
+    "start": "Tue May 26 16:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Tue May 26 05:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Wed May 27 05:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1608251,
+      "anger": 117622,
+      "fear": 75821,
+      "joy": 906838,
+      "love": 143592,
+      "other": 303589,
+      "sadness": 377067,
+      "surprise": 96365
+    }
+  },
+  {
+    "start": "Tue May 26 17:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Tue May 26 06:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Wed May 27 06:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1463715,
+      "anger": 96420,
+      "fear": 67708,
+      "joy": 821411,
+      "love": 116537,
+      "other": 275620,
+      "sadness": 328747,
+      "surprise": 88927
+    }
+  },
+  {
+    "start": "Tue May 26 18:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Tue May 26 07:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Wed May 27 07:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1416010,
+      "anger": 89846,
+      "fear": 68230,
+      "joy": 784079,
+      "love": 106930,
+      "other": 267934,
+      "sadness": 321488,
+      "surprise": 87384
+    }
+  },
+  {
+    "start": "Tue May 26 19:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Tue May 26 08:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Wed May 27 08:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1403885,
+      "anger": 91353,
+      "fear": 67257,
+      "joy": 770206,
+      "love": 109248,
+      "other": 267682,
+      "sadness": 320781,
+      "surprise": 85524
+    }
+  },
+  {
+    "start": "Tue May 26 20:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Tue May 26 09:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Wed May 27 09:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1375248,
+      "anger": 91578,
+      "fear": 64713,
+      "joy": 749037,
+      "love": 104790,
+      "other": 262950,
+      "sadness": 318667,
+      "surprise": 84833
+    }
+  },
+  {
+    "start": "Tue May 26 21:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Tue May 26 10:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Wed May 27 10:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1350897,
+      "anger": 85364,
+      "fear": 61242,
+      "joy": 729451,
+      "love": 104919,
+      "other": 261921,
+      "sadness": 315637,
+      "surprise": 83099
+    }
+  },
+  {
+    "start": "Tue May 26 22:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Tue May 26 11:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Wed May 27 11:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1323788,
+      "anger": 82462,
+      "fear": 58223,
+      "joy": 715347,
+      "love": 100030,
+      "other": 256503,
+      "sadness": 309597,
+      "surprise": 80033
+    }
+  },
+  {
+    "start": "Tue May 26 23:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Tue May 26 12:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Wed May 27 12:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1291258,
+      "anger": 79888,
+      "fear": 56061,
+      "joy": 697875,
+      "love": 95564,
+      "other": 251976,
+      "sadness": 296666,
+      "surprise": 79126
+    }
+  },
+  {
+    "start": "Wed May 27 00:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Tue May 26 13:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Wed May 27 13:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1282879,
+      "anger": 82592,
+      "fear": 54335,
+      "joy": 697717,
+      "love": 94566,
+      "other": 249442,
+      "sadness": 290178,
+      "surprise": 80122
+    }
+  },
+  {
+    "start": "Wed May 27 01:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Tue May 26 14:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Wed May 27 14:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1292392,
+      "anger": 81599,
+      "fear": 55129,
+      "joy": 705179,
+      "love": 97793,
+      "other": 248769,
+      "sadness": 287040,
+      "surprise": 80814
+    }
+  },
+  {
+    "start": "Wed May 27 02:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Tue May 26 15:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Wed May 27 15:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1305894,
+      "anger": 85473,
+      "fear": 58032,
+      "joy": 707170,
+      "love": 97529,
+      "other": 263473,
+      "sadness": 299871,
+      "surprise": 82308
+    }
+  },
+  {
+    "start": "Wed May 27 03:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Tue May 26 16:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Wed May 27 16:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1286096,
+      "anger": 76760,
+      "fear": 59249,
+      "joy": 702930,
+      "love": 101104,
+      "other": 254931,
+      "sadness": 286405,
+      "surprise": 80570
+    }
+  },
+  {
+    "start": "Wed May 27 04:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Tue May 26 17:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Wed May 27 17:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1232785,
+      "anger": 67913,
+      "fear": 52627,
+      "joy": 675525,
+      "love": 99208,
+      "other": 244428,
+      "sadness": 265749,
+      "surprise": 78055
+    }
+  },
+  {
+    "start": "Wed May 27 05:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Tue May 26 18:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Wed May 27 18:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1150522,
+      "anger": 60232,
+      "fear": 48207,
+      "joy": 638717,
+      "love": 91809,
+      "other": 227221,
+      "sadness": 240712,
+      "surprise": 74499
+    }
+  },
+  {
+    "start": "Wed May 27 06:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Tue May 26 19:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Wed May 27 19:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1104720,
+      "anger": 56291,
+      "fear": 46125,
+      "joy": 619184,
+      "love": 90740,
+      "other": 217281,
+      "sadness": 222214,
+      "surprise": 70259
+    }
+  },
+  {
+    "start": "Wed May 27 07:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Tue May 26 20:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Wed May 27 20:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1097477,
+      "anger": 52469,
+      "fear": 42959,
+      "joy": 631377,
+      "love": 89710,
+      "other": 211584,
+      "sadness": 214254,
+      "surprise": 69506
+    }
+  },
+  {
+    "start": "Wed May 27 08:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Tue May 26 21:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Wed May 27 21:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1105349,
+      "anger": 54242,
+      "fear": 40957,
+      "joy": 644515,
+      "love": 85831,
+      "other": 209787,
+      "sadness": 223889,
+      "surprise": 71674
+    }
+  },
+  {
+    "start": "Wed May 27 09:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Tue May 26 22:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Wed May 27 22:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1047274,
+      "anger": 51305,
+      "fear": 40510,
+      "joy": 610430,
+      "love": 83209,
+      "other": 212969,
+      "sadness": 201352,
+      "surprise": 67467
+    }
+  },
+  {
+    "start": "Wed May 27 10:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Tue May 26 23:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Wed May 27 23:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1083103,
+      "anger": 55680,
+      "fear": 43708,
+      "joy": 625081,
+      "love": 84317,
+      "other": 222382,
+      "sadness": 208313,
+      "surprise": 72268
+    }
+  },
+  {
+    "start": "Wed May 27 11:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Wed May 27 00:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Thu May 28 00:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1177810,
+      "anger": 63154,
+      "fear": 48612,
+      "joy": 679725,
+      "love": 96902,
+      "other": 236250,
+      "sadness": 234488,
+      "surprise": 72280
+    }
+  },
+  {
+    "start": "Wed May 27 12:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Wed May 27 01:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Thu May 28 01:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1367549,
+      "anger": 87596,
+      "fear": 61325,
+      "joy": 774639,
+      "love": 110108,
+      "other": 284997,
+      "sadness": 296211,
+      "surprise": 82482
+    }
+  },
+  {
+    "start": "Wed May 27 13:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Wed May 27 02:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Thu May 28 02:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1392008,
+      "anger": 96057,
+      "fear": 65588,
+      "joy": 773851,
+      "love": 111732,
+      "other": 287312,
+      "sadness": 316151,
+      "surprise": 86077
+    }
+  },
+  {
+    "start": "Wed May 27 14:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Wed May 27 03:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Thu May 28 03:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1655033,
+      "anger": 126026,
+      "fear": 80336,
+      "joy": 946054,
+      "love": 137723,
+      "other": 350344,
+      "sadness": 371737,
+      "surprise": 101073
+    }
+  },
+  {
+    "start": "Wed May 27 15:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Wed May 27 04:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Thu May 28 04:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1600529,
+      "anger": 112320,
+      "fear": 77083,
+      "joy": 932011,
+      "love": 143827,
+      "other": 344597,
+      "sadness": 333500,
+      "surprise": 108417
+    }
+  },
+  {
+    "start": "Wed May 27 16:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Wed May 27 05:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Thu May 28 05:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1782973,
+      "anger": 126655,
+      "fear": 90374,
+      "joy": 1015104,
+      "love": 151064,
+      "other": 378894,
+      "sadness": 409796,
+      "surprise": 113596
+    }
+  },
+  {
+    "start": "Wed May 27 17:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Wed May 27 06:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Thu May 28 06:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1485513,
+      "anger": 88762,
+      "fear": 67986,
+      "joy": 822929,
+      "love": 121211,
+      "other": 295989,
+      "sadness": 323754,
+      "surprise": 88430
+    }
+  },
+  {
+    "start": "Wed May 27 18:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Wed May 27 07:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Thu May 28 07:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1460027,
+      "anger": 89554,
+      "fear": 69055,
+      "joy": 802056,
+      "love": 116938,
+      "other": 298698,
+      "sadness": 325413,
+      "surprise": 88258
+    }
+  },
+  {
+    "start": "Wed May 27 19:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Wed May 27 08:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Thu May 28 08:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1428887,
+      "anger": 88447,
+      "fear": 68781,
+      "joy": 781408,
+      "love": 109303,
+      "other": 287945,
+      "sadness": 322079,
+      "surprise": 85982
+    }
+  },
+  {
+    "start": "Wed May 27 20:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Wed May 27 09:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Thu May 28 09:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1417528,
+      "anger": 88895,
+      "fear": 66825,
+      "joy": 765996,
+      "love": 108582,
+      "other": 284977,
+      "sadness": 330487,
+      "surprise": 85231
+    }
+  },
+  {
+    "start": "Wed May 27 21:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Wed May 27 10:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Thu May 28 10:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1377463,
+      "anger": 88376,
+      "fear": 64023,
+      "joy": 746908,
+      "love": 107700,
+      "other": 278171,
+      "sadness": 313264,
+      "surprise": 84438
+    }
+  },
+  {
+    "start": "Wed May 27 22:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Wed May 27 11:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Thu May 28 11:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1349491,
+      "anger": 86963,
+      "fear": 60988,
+      "joy": 732232,
+      "love": 102529,
+      "other": 273341,
+      "sadness": 311828,
+      "surprise": 81106
+    }
+  },
+  {
+    "start": "Wed May 27 23:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Wed May 27 12:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Thu May 28 12:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1325436,
+      "anger": 81019,
+      "fear": 58703,
+      "joy": 725170,
+      "love": 102422,
+      "other": 268035,
+      "sadness": 306096,
+      "surprise": 77530
+    }
+  },
+  {
+    "start": "Thu May 28 00:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Wed May 27 13:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Thu May 28 13:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1319517,
+      "anger": 78126,
+      "fear": 56796,
+      "joy": 735733,
+      "love": 98826,
+      "other": 264635,
+      "sadness": 295158,
+      "surprise": 74630
+    }
+  },
+  {
+    "start": "Thu May 28 01:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Wed May 27 14:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Thu May 28 14:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1318778,
+      "anger": 82610,
+      "fear": 57114,
+      "joy": 735070,
+      "love": 97848,
+      "other": 264539,
+      "sadness": 293410,
+      "surprise": 71064
+    }
+  },
+  {
+    "start": "Thu May 28 02:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Wed May 27 15:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Thu May 28 15:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1344207,
+      "anger": 83524,
+      "fear": 57454,
+      "joy": 745759,
+      "love": 100118,
+      "other": 263913,
+      "sadness": 311156,
+      "surprise": 70900
+    }
+  },
+  {
+    "start": "Thu May 28 03:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Wed May 27 16:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Thu May 28 16:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1311986,
+      "anger": 79454,
+      "fear": 56580,
+      "joy": 740791,
+      "love": 96591,
+      "other": 260301,
+      "sadness": 290770,
+      "surprise": 69995
+    }
+  },
+  {
+    "start": "Thu May 28 04:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Wed May 27 17:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Thu May 28 17:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1273717,
+      "anger": 76933,
+      "fear": 53440,
+      "joy": 720566,
+      "love": 95696,
+      "other": 248370,
+      "sadness": 279198,
+      "surprise": 68924
+    }
+  },
+  {
+    "start": "Thu May 28 05:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Wed May 27 18:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Thu May 28 18:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1244221,
+      "anger": 72935,
+      "fear": 53727,
+      "joy": 696757,
+      "love": 105668,
+      "other": 238127,
+      "sadness": 260864,
+      "surprise": 69701
+    }
+  },
+  {
+    "start": "Thu May 28 06:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Wed May 27 19:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Thu May 28 19:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1178767,
+      "anger": 67406,
+      "fear": 51783,
+      "joy": 675432,
+      "love": 91100,
+      "other": 226139,
+      "sadness": 246308,
+      "surprise": 64938
+    }
+  },
+  {
+    "start": "Thu May 28 07:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Wed May 27 20:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Thu May 28 20:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1137378,
+      "anger": 67134,
+      "fear": 53157,
+      "joy": 655872,
+      "love": 84604,
+      "other": 221734,
+      "sadness": 233335,
+      "surprise": 65157
+    }
+  },
+  {
+    "start": "Thu May 28 08:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Wed May 27 21:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Thu May 28 21:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1099330,
+      "anger": 62339,
+      "fear": 52070,
+      "joy": 642538,
+      "love": 83874,
+      "other": 216140,
+      "sadness": 221481,
+      "surprise": 62519
+    }
+  },
+  {
+    "start": "Thu May 28 09:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Wed May 27 22:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Thu May 28 22:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1123496,
+      "anger": 62769,
+      "fear": 50833,
+      "joy": 666687,
+      "love": 81488,
+      "other": 226195,
+      "sadness": 218863,
+      "surprise": 64641
+    }
+  },
+  {
+    "start": "Thu May 28 10:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Wed May 27 23:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Thu May 28 23:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1129027,
+      "anger": 62636,
+      "fear": 48868,
+      "joy": 669548,
+      "love": 80882,
+      "other": 220269,
+      "sadness": 224568,
+      "surprise": 66503
+    }
+  },
+  {
+    "start": "Thu May 28 11:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Thu May 28 00:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Fri May 29 00:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1261268,
+      "anger": 77652,
+      "fear": 53054,
+      "joy": 747413,
+      "love": 118037,
+      "other": 240848,
+      "sadness": 257298,
+      "surprise": 77697
+    }
+  },
+  {
+    "start": "Thu May 28 12:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Thu May 28 01:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Fri May 29 01:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1352619,
+      "anger": 82137,
+      "fear": 60905,
+      "joy": 787496,
+      "love": 123508,
+      "other": 258198,
+      "sadness": 290552,
+      "surprise": 76159
+    }
+  },
+  {
+    "start": "Thu May 28 13:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Thu May 28 02:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Fri May 29 02:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1556300,
+      "anger": 98742,
+      "fear": 79337,
+      "joy": 903430,
+      "love": 136993,
+      "other": 311312,
+      "sadness": 347646,
+      "surprise": 98953
+    }
+  },
+  {
+    "start": "Thu May 28 14:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Thu May 28 03:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Fri May 29 03:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1740575,
+      "anger": 119803,
+      "fear": 85709,
+      "joy": 1037953,
+      "love": 160626,
+      "other": 361643,
+      "sadness": 400089,
+      "surprise": 89405
+    }
+  },
+  {
+    "start": "Thu May 28 15:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Thu May 28 04:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Fri May 29 04:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 967765,
+      "anger": 68106,
+      "fear": 50125,
+      "joy": 547447,
+      "love": 77799,
+      "other": 197189,
+      "sadness": 258186,
+      "surprise": 63068
+    }
+  },
+  {
+    "start": "Thu May 28 16:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Thu May 28 05:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Fri May 29 05:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1744714,
+      "anger": 118785,
+      "fear": 100423,
+      "joy": 1006431,
+      "love": 154247,
+      "other": 368465,
+      "sadness": 404304,
+      "surprise": 96679
+    }
+  },
+  {
+    "start": "Thu May 28 17:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Thu May 28 06:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Fri May 29 06:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1539219,
+      "anger": 108332,
+      "fear": 95197,
+      "joy": 836067,
+      "love": 131083,
+      "other": 334807,
+      "sadness": 337280,
+      "surprise": 78211
+    }
+  },
+  {
+    "start": "Thu May 28 18:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Thu May 28 07:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Fri May 29 07:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1502757,
+      "anger": 109631,
+      "fear": 100155,
+      "joy": 810544,
+      "love": 117540,
+      "other": 318040,
+      "sadness": 334553,
+      "surprise": 77328
+    }
+  },
+  {
+    "start": "Thu May 28 19:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Thu May 28 08:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Fri May 29 08:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1472626,
+      "anger": 109690,
+      "fear": 99547,
+      "joy": 789873,
+      "love": 107161,
+      "other": 303839,
+      "sadness": 333541,
+      "surprise": 81898
+    }
+  },
+  {
+    "start": "Thu May 28 20:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Thu May 28 09:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Fri May 29 09:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1449694,
+      "anger": 114922,
+      "fear": 93825,
+      "joy": 775341,
+      "love": 105806,
+      "other": 300099,
+      "sadness": 332768,
+      "surprise": 76914
+    }
+  },
+  {
+    "start": "Thu May 28 21:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Thu May 28 10:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Fri May 29 10:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1435166,
+      "anger": 115746,
+      "fear": 92839,
+      "joy": 763106,
+      "love": 105336,
+      "other": 298402,
+      "sadness": 330518,
+      "surprise": 76249
+    }
+  },
+  {
+    "start": "Thu May 28 22:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Thu May 28 11:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Fri May 29 11:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1411470,
+      "anger": 117288,
+      "fear": 89514,
+      "joy": 745826,
+      "love": 100350,
+      "other": 293551,
+      "sadness": 324502,
+      "surprise": 76994
+    }
+  },
+  {
+    "start": "Thu May 28 23:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Thu May 28 12:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Fri May 29 12:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1348105,
+      "anger": 106883,
+      "fear": 81669,
+      "joy": 716178,
+      "love": 88164,
+      "other": 277935,
+      "sadness": 321691,
+      "surprise": 73308
+    }
+  },
+  {
+    "start": "Fri May 29 00:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Thu May 28 13:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Fri May 29 13:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1328507,
+      "anger": 105234,
+      "fear": 77926,
+      "joy": 720300,
+      "love": 88878,
+      "other": 268444,
+      "sadness": 311002,
+      "surprise": 70861
+    }
+  },
+  {
+    "start": "Fri May 29 01:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Thu May 28 14:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Fri May 29 14:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1310965,
+      "anger": 102720,
+      "fear": 80972,
+      "joy": 714716,
+      "love": 90063,
+      "other": 263850,
+      "sadness": 299995,
+      "surprise": 70656
+    }
+  },
+  {
+    "start": "Fri May 29 02:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Thu May 28 15:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Fri May 29 15:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1298243,
+      "anger": 99147,
+      "fear": 75773,
+      "joy": 706798,
+      "love": 90141,
+      "other": 266376,
+      "sadness": 295858,
+      "surprise": 70281
+    }
+  },
+  {
+    "start": "Fri May 29 03:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Thu May 28 16:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Fri May 29 16:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1293765,
+      "anger": 99742,
+      "fear": 72740,
+      "joy": 702557,
+      "love": 87307,
+      "other": 264250,
+      "sadness": 294143,
+      "surprise": 72735
+    }
+  },
+  {
+    "start": "Fri May 29 04:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Thu May 28 17:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Fri May 29 17:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1052397,
+      "anger": 85133,
+      "fear": 54604,
+      "joy": 572062,
+      "love": 70508,
+      "other": 214173,
+      "sadness": 234296,
+      "surprise": 61013
+    }
+  },
+  {
+    "start": "Fri May 29 05:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Thu May 28 18:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Fri May 29 18:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1337555,
+      "anger": 110202,
+      "fear": 84294,
+      "joy": 721519,
+      "love": 87020,
+      "other": 278538,
+      "sadness": 289971,
+      "surprise": 66945
+    }
+  },
+  {
+    "start": "Fri May 29 06:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Thu May 28 19:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Fri May 29 19:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1278974,
+      "anger": 104341,
+      "fear": 79112,
+      "joy": 716057,
+      "love": 83506,
+      "other": 264381,
+      "sadness": 261671,
+      "surprise": 60240
+    }
+  },
+  {
+    "start": "Fri May 29 07:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Thu May 28 20:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Fri May 29 20:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1179994,
+      "anger": 89296,
+      "fear": 66258,
+      "joy": 672572,
+      "love": 84599,
+      "other": 234135,
+      "sadness": 237725,
+      "surprise": 57948
+    }
+  },
+  {
+    "start": "Fri May 29 08:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Thu May 28 21:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Fri May 29 21:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1077200,
+      "anger": 75339,
+      "fear": 54415,
+      "joy": 626465,
+      "love": 78340,
+      "other": 215335,
+      "sadness": 208954,
+      "surprise": 54039
+    }
+  },
+  {
+    "start": "Fri May 29 09:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Thu May 28 22:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Fri May 29 22:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1053344,
+      "anger": 67373,
+      "fear": 50141,
+      "joy": 622593,
+      "love": 78980,
+      "other": 200178,
+      "sadness": 197782,
+      "surprise": 57012
+    }
+  },
+  {
+    "start": "Fri May 29 10:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Thu May 28 23:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Fri May 29 23:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1135634,
+      "anger": 72045,
+      "fear": 56789,
+      "joy": 675283,
+      "love": 87983,
+      "other": 213391,
+      "sadness": 214832,
+      "surprise": 62134
+    }
+  },
+  {
+    "start": "Fri May 29 11:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Fri May 29 00:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Sat May 30 00:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1221463,
+      "anger": 84022,
+      "fear": 63837,
+      "joy": 701479,
+      "love": 96267,
+      "other": 234126,
+      "sadness": 241322,
+      "surprise": 64669
+    }
+  },
+  {
+    "start": "Fri May 29 12:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Fri May 29 01:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Sat May 30 01:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1499252,
+      "anger": 119142,
+      "fear": 80496,
+      "joy": 863834,
+      "love": 132782,
+      "other": 302360,
+      "sadness": 320017,
+      "surprise": 77954
+    }
+  },
+  {
+    "start": "Fri May 29 13:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Fri May 29 02:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Sat May 30 02:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1450414,
+      "anger": 117779,
+      "fear": 82472,
+      "joy": 812650,
+      "love": 117342,
+      "other": 281223,
+      "sadness": 301930,
+      "surprise": 76701
+    }
+  },
+  {
+    "start": "Fri May 29 14:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Fri May 29 03:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Sat May 30 03:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1651082,
+      "anger": 142043,
+      "fear": 101041,
+      "joy": 934707,
+      "love": 130613,
+      "other": 338587,
+      "sadness": 357086,
+      "surprise": 90766
+    }
+  },
+  {
+    "start": "Fri May 29 15:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Fri May 29 04:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Sat May 30 04:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1675097,
+      "anger": 150612,
+      "fear": 110859,
+      "joy": 932640,
+      "love": 135314,
+      "other": 338986,
+      "sadness": 368492,
+      "surprise": 103333
+    }
+  },
+  {
+    "start": "Fri May 29 16:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Fri May 29 05:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Sat May 30 05:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1559492,
+      "anger": 139098,
+      "fear": 105904,
+      "joy": 847745,
+      "love": 122424,
+      "other": 304902,
+      "sadness": 344759,
+      "surprise": 91349
+    }
+  },
+  {
+    "start": "Fri May 29 17:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Fri May 29 06:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Sat May 30 06:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1470147,
+      "anger": 129203,
+      "fear": 97849,
+      "joy": 803947,
+      "love": 114428,
+      "other": 284017,
+      "sadness": 321755,
+      "surprise": 79059
+    }
+  },
+  {
+    "start": "Fri May 29 18:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Fri May 29 07:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Sat May 30 07:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1437932,
+      "anger": 121234,
+      "fear": 95600,
+      "joy": 777847,
+      "love": 103934,
+      "other": 278567,
+      "sadness": 312721,
+      "surprise": 76456
+    }
+  },
+  {
+    "start": "Fri May 29 19:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Fri May 29 08:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Sat May 30 08:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1410920,
+      "anger": 121045,
+      "fear": 104667,
+      "joy": 755724,
+      "love": 100423,
+      "other": 272837,
+      "sadness": 306197,
+      "surprise": 78019
+    }
+  },
+  {
+    "start": "Fri May 29 20:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Fri May 29 09:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Sat May 30 09:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1376606,
+      "anger": 115667,
+      "fear": 96893,
+      "joy": 733470,
+      "love": 98924,
+      "other": 265378,
+      "sadness": 301170,
+      "surprise": 76983
+    }
+  },
+  {
+    "start": "Fri May 29 21:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Fri May 29 10:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Sat May 30 10:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1351746,
+      "anger": 112717,
+      "fear": 89259,
+      "joy": 735233,
+      "love": 96108,
+      "other": 254563,
+      "sadness": 288247,
+      "surprise": 73622
+    }
+  },
+  {
+    "start": "Fri May 29 22:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Fri May 29 11:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Sat May 30 11:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1313827,
+      "anger": 110702,
+      "fear": 90597,
+      "joy": 717144,
+      "love": 94251,
+      "other": 248480,
+      "sadness": 276089,
+      "surprise": 69020
+    }
+  },
+  {
+    "start": "Fri May 29 23:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Fri May 29 12:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Sat May 30 12:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1270944,
+      "anger": 105098,
+      "fear": 79712,
+      "joy": 696247,
+      "love": 85649,
+      "other": 254435,
+      "sadness": 278112,
+      "surprise": 64826
+    }
+  },
+  {
+    "start": "Sat May 30 00:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Fri May 29 13:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Sat May 30 13:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1260166,
+      "anger": 102793,
+      "fear": 73378,
+      "joy": 700379,
+      "love": 82738,
+      "other": 248034,
+      "sadness": 281062,
+      "surprise": 61347
+    }
+  },
+  {
+    "start": "Sat May 30 01:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Fri May 29 14:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Sat May 30 14:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1325602,
+      "anger": 111841,
+      "fear": 76089,
+      "joy": 725510,
+      "love": 85516,
+      "other": 264341,
+      "sadness": 298877,
+      "surprise": 64828
+    }
+  },
+  {
+    "start": "Sat May 30 02:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Fri May 29 15:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Sat May 30 15:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1386040,
+      "anger": 111710,
+      "fear": 75140,
+      "joy": 744129,
+      "love": 86550,
+      "other": 294288,
+      "sadness": 317514,
+      "surprise": 65500
+    }
+  },
+  {
+    "start": "Sat May 30 03:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Fri May 29 16:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Sat May 30 16:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1361671,
+      "anger": 105490,
+      "fear": 72890,
+      "joy": 748407,
+      "love": 82905,
+      "other": 277843,
+      "sadness": 314494,
+      "surprise": 64660
+    }
+  },
+  {
+    "start": "Sat May 30 04:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Fri May 29 17:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Sat May 30 17:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1342925,
+      "anger": 104581,
+      "fear": 70574,
+      "joy": 739272,
+      "love": 86081,
+      "other": 286403,
+      "sadness": 305386,
+      "surprise": 60941
+    }
+  },
+  {
+    "start": "Sat May 30 05:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Fri May 29 18:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Sat May 30 18:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1300287,
+      "anger": 102761,
+      "fear": 68344,
+      "joy": 718725,
+      "love": 83276,
+      "other": 275784,
+      "sadness": 288987,
+      "surprise": 58609
+    }
+  },
+  {
+    "start": "Sat May 30 06:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Fri May 29 19:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Sat May 30 19:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1250642,
+      "anger": 94428,
+      "fear": 64937,
+      "joy": 703917,
+      "love": 84347,
+      "other": 255529,
+      "sadness": 268660,
+      "surprise": 57668
+    }
+  },
+  {
+    "start": "Sat May 30 07:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Fri May 29 20:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Sat May 30 20:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1191539,
+      "anger": 86738,
+      "fear": 59922,
+      "joy": 680094,
+      "love": 87886,
+      "other": 230925,
+      "sadness": 249673,
+      "surprise": 57997
+    }
+  },
+  {
+    "start": "Sat May 30 08:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Fri May 29 21:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Sat May 30 21:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1112350,
+      "anger": 74088,
+      "fear": 54236,
+      "joy": 640398,
+      "love": 82221,
+      "other": 214952,
+      "sadness": 229661,
+      "surprise": 58773
+    }
+  },
+  {
+    "start": "Sat May 30 09:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Fri May 29 22:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Sat May 30 22:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1070372,
+      "anger": 65019,
+      "fear": 49722,
+      "joy": 622141,
+      "love": 79130,
+      "other": 208538,
+      "sadness": 217461,
+      "surprise": 56607
+    }
+  },
+  {
+    "start": "Sat May 30 10:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Fri May 29 23:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Sat May 30 23:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1095100,
+      "anger": 66843,
+      "fear": 49818,
+      "joy": 639129,
+      "love": 81815,
+      "other": 210284,
+      "sadness": 220812,
+      "surprise": 62726
+    }
+  },
+  {
+    "start": "Sat May 30 11:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Sat May 30 00:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Sun May 31 00:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1159952,
+      "anger": 71403,
+      "fear": 54696,
+      "joy": 675723,
+      "love": 94509,
+      "other": 227765,
+      "sadness": 235565,
+      "surprise": 61823
+    }
+  },
+  {
+    "start": "Sat May 30 12:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Sat May 30 01:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Sun May 31 01:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1421812,
+      "anger": 97651,
+      "fear": 73283,
+      "joy": 828353,
+      "love": 117653,
+      "other": 287963,
+      "sadness": 311683,
+      "surprise": 76758
+    }
+  },
+  {
+    "start": "Sat May 30 13:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Sat May 30 02:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Sun May 31 02:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1370397,
+      "anger": 101985,
+      "fear": 70876,
+      "joy": 782089,
+      "love": 108234,
+      "other": 262185,
+      "sadness": 291428,
+      "surprise": 70828
+    }
+  },
+  {
+    "start": "Sat May 30 14:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Sat May 30 03:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Sun May 31 03:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1745643,
+      "anger": 143115,
+      "fear": 101269,
+      "joy": 1013691,
+      "love": 141816,
+      "other": 349579,
+      "sadness": 407389,
+      "surprise": 98933
+    }
+  },
+  {
+    "start": "Sat May 30 15:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Sat May 30 04:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Sun May 31 04:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1757035,
+      "anger": 144328,
+      "fear": 104564,
+      "joy": 1024541,
+      "love": 143749,
+      "other": 355435,
+      "sadness": 403358,
+      "surprise": 104618
+    }
+  },
+  {
+    "start": "Sat May 30 16:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Sat May 30 05:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Sun May 31 05:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1663613,
+      "anger": 140269,
+      "fear": 97573,
+      "joy": 965736,
+      "love": 144286,
+      "other": 330730,
+      "sadness": 371599,
+      "surprise": 94036
+    }
+  },
+  {
+    "start": "Sat May 30 17:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Sat May 30 06:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Sun May 31 06:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1506135,
+      "anger": 117747,
+      "fear": 83483,
+      "joy": 847873,
+      "love": 117674,
+      "other": 315773,
+      "sadness": 344972,
+      "surprise": 81559
+    }
+  },
+  {
+    "start": "Sat May 30 18:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Sat May 30 07:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Sun May 31 07:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1420189,
+      "anger": 107516,
+      "fear": 76527,
+      "joy": 796355,
+      "love": 107898,
+      "other": 289713,
+      "sadness": 308479,
+      "surprise": 72826
+    }
+  },
+  {
+    "start": "Sat May 30 19:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Sat May 30 08:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Sun May 31 08:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1481141,
+      "anger": 102721,
+      "fear": 73419,
+      "joy": 876254,
+      "love": 103834,
+      "other": 321495,
+      "sadness": 295271,
+      "surprise": 79818
+    }
+  },
+  {
+    "start": "Sat May 30 20:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Sat May 30 09:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Sun May 31 09:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1406631,
+      "anger": 99044,
+      "fear": 74653,
+      "joy": 811990,
+      "love": 102409,
+      "other": 287610,
+      "sadness": 292072,
+      "surprise": 73198
+    }
+  },
+  {
+    "start": "Sat May 30 21:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Sat May 30 10:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Sun May 31 10:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1373089,
+      "anger": 93450,
+      "fear": 73760,
+      "joy": 782501,
+      "love": 103827,
+      "other": 274045,
+      "sadness": 289706,
+      "surprise": 71882
+    }
+  },
+  {
+    "start": "Sat May 30 22:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Sat May 30 11:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Sun May 31 11:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1372149,
+      "anger": 90437,
+      "fear": 72506,
+      "joy": 783193,
+      "love": 100618,
+      "other": 275674,
+      "sadness": 294056,
+      "surprise": 69246
+    }
+  },
+  {
+    "start": "Sat May 30 23:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Sat May 30 12:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Sun May 31 12:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1386671,
+      "anger": 90311,
+      "fear": 72173,
+      "joy": 793533,
+      "love": 96946,
+      "other": 277914,
+      "sadness": 299765,
+      "surprise": 69421
+    }
+  },
+  {
+    "start": "Sun May 31 00:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Sat May 30 13:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Sun May 31 13:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1403893,
+      "anger": 96274,
+      "fear": 74951,
+      "joy": 816896,
+      "love": 95317,
+      "other": 283894,
+      "sadness": 294775,
+      "surprise": 63240
+    }
+  },
+  {
+    "start": "Sun May 31 01:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Sat May 30 14:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Sun May 31 14:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1409848,
+      "anger": 101043,
+      "fear": 73722,
+      "joy": 820627,
+      "love": 96131,
+      "other": 285894,
+      "sadness": 295271,
+      "surprise": 64480
+    }
+  },
+  {
+    "start": "Sun May 31 02:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Sat May 30 15:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Sun May 31 15:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1481693,
+      "anger": 122164,
+      "fear": 82099,
+      "joy": 845904,
+      "love": 104980,
+      "other": 313770,
+      "sadness": 324267,
+      "surprise": 67211
+    }
+  },
+  {
+    "start": "Sun May 31 03:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Sat May 30 16:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Sun May 31 16:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1470566,
+      "anger": 128490,
+      "fear": 81454,
+      "joy": 823897,
+      "love": 104897,
+      "other": 310441,
+      "sadness": 326408,
+      "surprise": 68814
+    }
+  },
+  {
+    "start": "Sun May 31 04:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Sat May 30 17:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Sun May 31 17:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1464683,
+      "anger": 134457,
+      "fear": 76311,
+      "joy": 810302,
+      "love": 98485,
+      "other": 314076,
+      "sadness": 319197,
+      "surprise": 63708
+    }
+  },
+  {
+    "start": "Sun May 31 05:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Sat May 30 18:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Sun May 31 18:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1395097,
+      "anger": 118152,
+      "fear": 73569,
+      "joy": 784165,
+      "love": 94578,
+      "other": 283120,
+      "sadness": 298878,
+      "surprise": 58531
+    }
+  },
+  {
+    "start": "Sun May 31 06:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Sat May 30 19:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Sun May 31 19:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1332214,
+      "anger": 107747,
+      "fear": 68679,
+      "joy": 760141,
+      "love": 91497,
+      "other": 269575,
+      "sadness": 271182,
+      "surprise": 53928
+    }
+  },
+  {
+    "start": "Sun May 31 07:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Sat May 30 20:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Sun May 31 20:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1284882,
+      "anger": 97002,
+      "fear": 67225,
+      "joy": 742600,
+      "love": 88872,
+      "other": 257922,
+      "sadness": 250260,
+      "surprise": 56176
+    }
+  },
+  {
+    "start": "Sun May 31 08:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Sat May 30 21:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Sun May 31 21:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1238830,
+      "anger": 89403,
+      "fear": 61644,
+      "joy": 731204,
+      "love": 85587,
+      "other": 256149,
+      "sadness": 230197,
+      "surprise": 57960
+    }
+  },
+  {
+    "start": "Sun May 31 09:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Sat May 30 22:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Sun May 31 22:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1195257,
+      "anger": 85470,
+      "fear": 52428,
+      "joy": 717321,
+      "love": 84888,
+      "other": 245012,
+      "sadness": 215878,
+      "surprise": 56101
+    }
+  },
+  {
+    "start": "Sun May 31 10:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Sat May 30 23:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Sun May 31 23:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1224276,
+      "anger": 85017,
+      "fear": 48980,
+      "joy": 736591,
+      "love": 88627,
+      "other": 250490,
+      "sadness": 221440,
+      "surprise": 60464
+    }
+  },
+  {
+    "start": "Sun May 31 11:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Sun May 31 00:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Mon Jun 01 00:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1269822,
+      "anger": 94552,
+      "fear": 51427,
+      "joy": 740408,
+      "love": 92176,
+      "other": 266391,
+      "sadness": 246162,
+      "surprise": 60475
+    }
+  },
+  {
+    "start": "Sun May 31 12:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Sun May 31 01:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Mon Jun 01 01:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1507512,
+      "anger": 123465,
+      "fear": 67621,
+      "joy": 874068,
+      "love": 111059,
+      "other": 330921,
+      "sadness": 309841,
+      "surprise": 73131
+    }
+  },
+  {
+    "start": "Sun May 31 13:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Sun May 31 02:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Mon Jun 01 02:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1492342,
+      "anger": 129197,
+      "fear": 65854,
+      "joy": 834898,
+      "love": 107914,
+      "other": 329524,
+      "sadness": 315832,
+      "surprise": 67505
+    }
+  },
+  {
+    "start": "Sun May 31 14:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Sun May 31 03:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Mon Jun 01 03:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1740852,
+      "anger": 164066,
+      "fear": 82291,
+      "joy": 972999,
+      "love": 148999,
+      "other": 384060,
+      "sadness": 387879,
+      "surprise": 85317
+    }
+  },
+  {
+    "start": "Sun May 31 15:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Sun May 31 04:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Mon Jun 01 04:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1293991,
+      "anger": 121544,
+      "fear": 65000,
+      "joy": 701422,
+      "love": 95642,
+      "other": 283400,
+      "sadness": 294358,
+      "surprise": 64812
+    }
+  },
+  {
+    "start": "Sun May 31 16:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Sun May 31 05:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Mon Jun 01 05:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1639226,
+      "anger": 157370,
+      "fear": 85064,
+      "joy": 900693,
+      "love": 128535,
+      "other": 363900,
+      "sadness": 347638,
+      "surprise": 87230
+    }
+  },
+  {
+    "start": "Sun May 31 17:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Sun May 31 06:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Mon Jun 01 06:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1605376,
+      "anger": 164060,
+      "fear": 85562,
+      "joy": 877418,
+      "love": 119163,
+      "other": 367004,
+      "sadness": 331196,
+      "surprise": 84726
+    }
+  },
+  {
+    "start": "Sun May 31 18:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Sun May 31 07:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Mon Jun 01 07:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1588779,
+      "anger": 148579,
+      "fear": 85705,
+      "joy": 877754,
+      "love": 110566,
+      "other": 335565,
+      "sadness": 339768,
+      "surprise": 91239
+    }
+  },
+  {
+    "start": "Sun May 31 19:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Sun May 31 08:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Mon Jun 01 08:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1466890,
+      "anger": 138243,
+      "fear": 80385,
+      "joy": 808781,
+      "love": 102800,
+      "other": 303840,
+      "sadness": 305244,
+      "surprise": 78648
+    }
+  },
+  {
+    "start": "Sun May 31 20:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Sun May 31 09:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Mon Jun 01 09:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1431381,
+      "anger": 132812,
+      "fear": 75966,
+      "joy": 787212,
+      "love": 99093,
+      "other": 285734,
+      "sadness": 299885,
+      "surprise": 74510
+    }
+  },
+  {
+    "start": "Sun May 31 21:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Sun May 31 10:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Mon Jun 01 10:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1425288,
+      "anger": 138310,
+      "fear": 77441,
+      "joy": 780332,
+      "love": 98575,
+      "other": 274205,
+      "sadness": 308616,
+      "surprise": 72841
+    }
+  },
+  {
+    "start": "Sun May 31 22:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Sun May 31 11:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Mon Jun 01 11:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1445343,
+      "anger": 146819,
+      "fear": 76266,
+      "joy": 783783,
+      "love": 94220,
+      "other": 284276,
+      "sadness": 317756,
+      "surprise": 71694
+    }
+  },
+  {
+    "start": "Sun May 31 23:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Sun May 31 12:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Mon Jun 01 12:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1457659,
+      "anger": 139016,
+      "fear": 77445,
+      "joy": 799764,
+      "love": 98788,
+      "other": 282314,
+      "sadness": 318628,
+      "surprise": 71408
+    }
+  },
+  {
+    "start": "Mon Jun 01 00:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Sun May 31 13:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Mon Jun 01 13:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1457436,
+      "anger": 137145,
+      "fear": 83459,
+      "joy": 790506,
+      "love": 88822,
+      "other": 299841,
+      "sadness": 336059,
+      "surprise": 68650
+    }
+  },
+  {
+    "start": "Mon Jun 01 01:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Sun May 31 14:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Mon Jun 01 14:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1471740,
+      "anger": 133935,
+      "fear": 78274,
+      "joy": 793385,
+      "love": 89423,
+      "other": 318245,
+      "sadness": 338975,
+      "surprise": 64710
+    }
+  },
+  {
+    "start": "Mon Jun 01 02:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Sun May 31 15:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Mon Jun 01 15:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1523147,
+      "anger": 132725,
+      "fear": 83395,
+      "joy": 824658,
+      "love": 96220,
+      "other": 328469,
+      "sadness": 342093,
+      "surprise": 67742
+    }
+  },
+  {
+    "start": "Mon Jun 01 03:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Sun May 31 16:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Mon Jun 01 16:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1502321,
+      "anger": 129740,
+      "fear": 84532,
+      "joy": 806169,
+      "love": 95951,
+      "other": 321689,
+      "sadness": 345122,
+      "surprise": 66887
+    }
+  },
+  {
+    "start": "Mon Jun 01 04:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Sun May 31 17:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Mon Jun 01 17:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1476139,
+      "anger": 128027,
+      "fear": 89022,
+      "joy": 788762,
+      "love": 89609,
+      "other": 319411,
+      "sadness": 336143,
+      "surprise": 67919
+    }
+  },
+  {
+    "start": "Mon Jun 01 05:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Sun May 31 18:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Mon Jun 01 18:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1417959,
+      "anger": 116274,
+      "fear": 89479,
+      "joy": 758430,
+      "love": 87196,
+      "other": 299014,
+      "sadness": 315302,
+      "surprise": 65059
+    }
+  },
+  {
+    "start": "Mon Jun 01 06:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Sun May 31 19:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Mon Jun 01 19:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1365904,
+      "anger": 109679,
+      "fear": 82154,
+      "joy": 737939,
+      "love": 82149,
+      "other": 291479,
+      "sadness": 297592,
+      "surprise": 63946
+    }
+  },
+  {
+    "start": "Mon Jun 01 07:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Sun May 31 20:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Mon Jun 01 20:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1306538,
+      "anger": 96778,
+      "fear": 76000,
+      "joy": 722632,
+      "love": 80080,
+      "other": 278595,
+      "sadness": 269793,
+      "surprise": 64781
+    }
+  },
+  {
+    "start": "Mon Jun 01 08:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Sun May 31 21:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Mon Jun 01 21:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1218164,
+      "anger": 87111,
+      "fear": 64446,
+      "joy": 690383,
+      "love": 77864,
+      "other": 253475,
+      "sadness": 239136,
+      "surprise": 63546
+    }
+  },
+  {
+    "start": "Mon Jun 01 09:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Sun May 31 22:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Mon Jun 01 22:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1209790,
+      "anger": 81772,
+      "fear": 63975,
+      "joy": 695076,
+      "love": 77409,
+      "other": 242217,
+      "sadness": 223768,
+      "surprise": 70601
+    }
+  },
+  {
+    "start": "Mon Jun 01 10:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Sun May 31 23:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Mon Jun 01 23:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1231291,
+      "anger": 85147,
+      "fear": 65069,
+      "joy": 707393,
+      "love": 78859,
+      "other": 249655,
+      "sadness": 229440,
+      "surprise": 67386
+    }
+  },
+  {
+    "start": "Mon Jun 01 11:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Mon Jun 01 00:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Tue Jun 02 00:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1338816,
+      "anger": 95660,
+      "fear": 80179,
+      "joy": 749291,
+      "love": 85280,
+      "other": 275855,
+      "sadness": 264681,
+      "surprise": 65739
+    }
+  },
+  {
+    "start": "Mon Jun 01 12:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Mon Jun 01 01:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Tue Jun 02 01:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1512008,
+      "anger": 116925,
+      "fear": 92507,
+      "joy": 833454,
+      "love": 94271,
+      "other": 321449,
+      "sadness": 322471,
+      "surprise": 84423
+    }
+  },
+  {
+    "start": "Mon Jun 01 13:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Mon Jun 01 02:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Tue Jun 02 02:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1537176,
+      "anger": 119073,
+      "fear": 87690,
+      "joy": 838711,
+      "love": 101723,
+      "other": 341854,
+      "sadness": 337803,
+      "surprise": 83783
+    }
+  },
+  {
+    "start": "Mon Jun 01 14:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Mon Jun 01 03:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Tue Jun 02 03:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1642306,
+      "anger": 134870,
+      "fear": 96142,
+      "joy": 906376,
+      "love": 111258,
+      "other": 359726,
+      "sadness": 370015,
+      "surprise": 92728
+    }
+  },
+  {
+    "start": "Mon Jun 01 15:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Mon Jun 01 04:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Tue Jun 02 04:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1522593,
+      "anger": 139461,
+      "fear": 84351,
+      "joy": 852742,
+      "love": 110192,
+      "other": 316312,
+      "sadness": 335240,
+      "surprise": 65749
+    }
+  },
+  {
+    "start": "Mon Jun 01 16:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Mon Jun 01 05:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Tue Jun 02 05:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1574595,
+      "anger": 132956,
+      "fear": 90484,
+      "joy": 844314,
+      "love": 116447,
+      "other": 342514,
+      "sadness": 349230,
+      "surprise": 82798
+    }
+  },
+  {
+    "start": "Mon Jun 01 17:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Mon Jun 01 06:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Tue Jun 02 06:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1516593,
+      "anger": 123491,
+      "fear": 81026,
+      "joy": 817294,
+      "love": 104098,
+      "other": 322284,
+      "sadness": 337403,
+      "surprise": 77752
+    }
+  },
+  {
+    "start": "Mon Jun 01 18:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Mon Jun 01 07:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Tue Jun 02 07:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1501471,
+      "anger": 120064,
+      "fear": 83950,
+      "joy": 807953,
+      "love": 111497,
+      "other": 311998,
+      "sadness": 330619,
+      "surprise": 82437
+    }
+  },
+  {
+    "start": "Mon Jun 01 19:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Mon Jun 01 08:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Tue Jun 02 08:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1473655,
+      "anger": 114071,
+      "fear": 81151,
+      "joy": 798400,
+      "love": 106583,
+      "other": 310638,
+      "sadness": 325983,
+      "surprise": 83277
+    }
+  },
+  {
+    "start": "Mon Jun 01 20:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Mon Jun 01 09:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Tue Jun 02 09:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1458953,
+      "anger": 112614,
+      "fear": 80157,
+      "joy": 789343,
+      "love": 102999,
+      "other": 310709,
+      "sadness": 325422,
+      "surprise": 82962
+    }
+  },
+  {
+    "start": "Mon Jun 01 21:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Mon Jun 01 10:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Tue Jun 02 10:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1448489,
+      "anger": 110324,
+      "fear": 81142,
+      "joy": 784117,
+      "love": 103536,
+      "other": 312364,
+      "sadness": 323391,
+      "surprise": 82973
+    }
+  },
+  {
+    "start": "Mon Jun 01 22:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Mon Jun 01 11:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Tue Jun 02 11:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1472380,
+      "anger": 115629,
+      "fear": 83803,
+      "joy": 807529,
+      "love": 100711,
+      "other": 320701,
+      "sadness": 326939,
+      "surprise": 79144
+    }
+  },
+  {
+    "start": "Mon Jun 01 23:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Mon Jun 01 12:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Tue Jun 02 12:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1531698,
+      "anger": 119601,
+      "fear": 94183,
+      "joy": 851449,
+      "love": 94553,
+      "other": 332233,
+      "sadness": 331102,
+      "surprise": 84535
+    }
+  },
+  {
+    "start": "Tue Jun 02 00:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Mon Jun 01 13:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Tue Jun 02 13:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1492125,
+      "anger": 126944,
+      "fear": 95449,
+      "joy": 820393,
+      "love": 90917,
+      "other": 318176,
+      "sadness": 313687,
+      "surprise": 83892
+    }
+  },
+  {
+    "start": "Tue Jun 02 01:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Mon Jun 01 14:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Tue Jun 02 14:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1491629,
+      "anger": 131048,
+      "fear": 94369,
+      "joy": 829314,
+      "love": 93842,
+      "other": 314806,
+      "sadness": 328844,
+      "surprise": 82600
+    }
+  },
+  {
+    "start": "Tue Jun 02 02:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Mon Jun 01 15:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Tue Jun 02 15:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1552431,
+      "anger": 126593,
+      "fear": 97604,
+      "joy": 861208,
+      "love": 100918,
+      "other": 321190,
+      "sadness": 364388,
+      "surprise": 92206
+    }
+  },
+  {
+    "start": "Tue Jun 02 03:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Mon Jun 01 16:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Tue Jun 02 16:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1580591,
+      "anger": 121310,
+      "fear": 97165,
+      "joy": 890419,
+      "love": 106046,
+      "other": 326612,
+      "sadness": 370192,
+      "surprise": 93790
+    }
+  },
+  {
+    "start": "Tue Jun 02 04:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Mon Jun 01 17:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Tue Jun 02 17:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1442391,
+      "anger": 110190,
+      "fear": 82722,
+      "joy": 805356,
+      "love": 96430,
+      "other": 288804,
+      "sadness": 327259,
+      "surprise": 81201
+    }
+  },
+  {
+    "start": "Tue Jun 02 05:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Mon Jun 01 18:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Tue Jun 02 18:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1371309,
+      "anger": 99369,
+      "fear": 84508,
+      "joy": 759461,
+      "love": 92203,
+      "other": 272756,
+      "sadness": 305636,
+      "surprise": 78930
+    }
+  },
+  {
+    "start": "Tue Jun 02 06:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Mon Jun 01 19:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Tue Jun 02 19:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1306728,
+      "anger": 94442,
+      "fear": 80102,
+      "joy": 728894,
+      "love": 86563,
+      "other": 260462,
+      "sadness": 284140,
+      "surprise": 72722
+    }
+  },
+  {
+    "start": "Tue Jun 02 07:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Mon Jun 01 20:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Tue Jun 02 20:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1247386,
+      "anger": 92255,
+      "fear": 78686,
+      "joy": 705961,
+      "love": 82202,
+      "other": 245908,
+      "sadness": 260442,
+      "surprise": 67217
+    }
+  },
+  {
+    "start": "Tue Jun 02 08:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Mon Jun 01 21:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Tue Jun 02 21:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1189206,
+      "anger": 82253,
+      "fear": 70984,
+      "joy": 686866,
+      "love": 78649,
+      "other": 226151,
+      "sadness": 240301,
+      "surprise": 63836
+    }
+  },
+  {
+    "start": "Tue Jun 02 09:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Mon Jun 01 22:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Tue Jun 02 22:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1155943,
+      "anger": 74865,
+      "fear": 66523,
+      "joy": 674647,
+      "love": 85616,
+      "other": 215203,
+      "sadness": 226237,
+      "surprise": 63516
+    }
+  },
+  {
+    "start": "Tue Jun 02 10:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Mon Jun 01 23:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Tue Jun 02 23:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1206686,
+      "anger": 81700,
+      "fear": 70671,
+      "joy": 701249,
+      "love": 84449,
+      "other": 221792,
+      "sadness": 240451,
+      "surprise": 67536
+    }
+  },
+  {
+    "start": "Tue Jun 02 11:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Tue Jun 02 00:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Wed Jun 03 00:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1280490,
+      "anger": 90680,
+      "fear": 76947,
+      "joy": 731365,
+      "love": 89037,
+      "other": 236857,
+      "sadness": 274279,
+      "surprise": 69670
+    }
+  },
+  {
+    "start": "Tue Jun 02 12:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Tue Jun 02 01:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Wed Jun 03 01:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1408016,
+      "anger": 102089,
+      "fear": 85433,
+      "joy": 801910,
+      "love": 103462,
+      "other": 269490,
+      "sadness": 315633,
+      "surprise": 80096
+    }
+  },
+  {
+    "start": "Tue Jun 02 13:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Tue Jun 02 02:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Wed Jun 03 02:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1403595,
+      "anger": 104762,
+      "fear": 83502,
+      "joy": 790513,
+      "love": 104893,
+      "other": 268182,
+      "sadness": 318430,
+      "surprise": 78125
+    }
+  },
+  {
+    "start": "Tue Jun 02 14:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Tue Jun 02 03:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Wed Jun 03 03:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1515364,
+      "anger": 118103,
+      "fear": 92245,
+      "joy": 866819,
+      "love": 107102,
+      "other": 310112,
+      "sadness": 368866,
+      "surprise": 88305
+    }
+  },
+  {
+    "start": "Tue Jun 02 15:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Tue Jun 02 04:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Wed Jun 03 04:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1433986,
+      "anger": 107755,
+      "fear": 91738,
+      "joy": 793415,
+      "love": 92904,
+      "other": 294608,
+      "sadness": 357587,
+      "surprise": 91476
+    }
+  },
+  {
+    "start": "Tue Jun 02 16:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Tue Jun 02 05:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Wed Jun 03 05:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1524666,
+      "anger": 99420,
+      "fear": 110171,
+      "joy": 884943,
+      "love": 124791,
+      "other": 320797,
+      "sadness": 361080,
+      "surprise": 96146
+    }
+  },
+  {
+    "start": "Tue Jun 02 17:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Tue Jun 02 06:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Wed Jun 03 06:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1404077,
+      "anger": 96220,
+      "fear": 100313,
+      "joy": 795914,
+      "love": 120082,
+      "other": 289814,
+      "sadness": 325167,
+      "surprise": 80168
+    }
+  },
+  {
+    "start": "Tue Jun 02 18:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Tue Jun 02 07:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Wed Jun 03 07:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1455902,
+      "anger": 99031,
+      "fear": 112003,
+      "joy": 823083,
+      "love": 124828,
+      "other": 303265,
+      "sadness": 346740,
+      "surprise": 82872
+    }
+  },
+  {
+    "start": "Tue Jun 02 19:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Tue Jun 02 08:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Wed Jun 03 08:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1391558,
+      "anger": 94659,
+      "fear": 109307,
+      "joy": 773162,
+      "love": 116306,
+      "other": 289735,
+      "sadness": 332048,
+      "surprise": 79610
+    }
+  },
+  {
+    "start": "Tue Jun 02 20:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Tue Jun 02 09:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Wed Jun 03 09:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1395590,
+      "anger": 97328,
+      "fear": 109876,
+      "joy": 766681,
+      "love": 116115,
+      "other": 294147,
+      "sadness": 337014,
+      "surprise": 81121
+    }
+  },
+  {
+    "start": "Tue Jun 02 21:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Tue Jun 02 10:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Wed Jun 03 10:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1356072,
+      "anger": 96908,
+      "fear": 99107,
+      "joy": 756380,
+      "love": 107749,
+      "other": 286303,
+      "sadness": 320114,
+      "surprise": 77250
+    }
+  },
+  {
+    "start": "Tue Jun 02 22:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Tue Jun 02 11:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Wed Jun 03 11:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1351609,
+      "anger": 97591,
+      "fear": 96242,
+      "joy": 762479,
+      "love": 105666,
+      "other": 277908,
+      "sadness": 316680,
+      "surprise": 75976
+    }
+  },
+  {
+    "start": "Tue Jun 02 23:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Tue Jun 02 12:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Wed Jun 03 12:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1323719,
+      "anger": 96958,
+      "fear": 94629,
+      "joy": 733881,
+      "love": 100128,
+      "other": 271446,
+      "sadness": 315970,
+      "surprise": 79717
+    }
+  },
+  {
+    "start": "Wed Jun 03 00:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Tue Jun 02 13:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Wed Jun 03 13:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1348231,
+      "anger": 113301,
+      "fear": 92506,
+      "joy": 747603,
+      "love": 109940,
+      "other": 279542,
+      "sadness": 314907,
+      "surprise": 77218
+    }
+  },
+  {
+    "start": "Wed Jun 03 01:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Tue Jun 02 14:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Wed Jun 03 14:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1349743,
+      "anger": 105632,
+      "fear": 93796,
+      "joy": 743172,
+      "love": 110731,
+      "other": 274630,
+      "sadness": 317513,
+      "surprise": 73758
+    }
+  },
+  {
+    "start": "Wed Jun 03 02:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Tue Jun 02 15:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Wed Jun 03 15:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1365469,
+      "anger": 109214,
+      "fear": 92851,
+      "joy": 753096,
+      "love": 114280,
+      "other": 276003,
+      "sadness": 323759,
+      "surprise": 70832
+    }
+  },
+  {
+    "start": "Wed Jun 03 03:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Tue Jun 02 16:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Wed Jun 03 16:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1363093,
+      "anger": 111346,
+      "fear": 87877,
+      "joy": 740161,
+      "love": 107902,
+      "other": 280067,
+      "sadness": 343336,
+      "surprise": 66455
+    }
+  },
+  {
+    "start": "Wed Jun 03 04:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Tue Jun 02 17:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Wed Jun 03 17:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1351187,
+      "anger": 109273,
+      "fear": 86213,
+      "joy": 726649,
+      "love": 103488,
+      "other": 293693,
+      "sadness": 343564,
+      "surprise": 64302
+    }
+  },
+  {
+    "start": "Wed Jun 03 05:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Tue Jun 02 18:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Wed Jun 03 18:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1276690,
+      "anger": 99044,
+      "fear": 81354,
+      "joy": 707780,
+      "love": 94663,
+      "other": 264093,
+      "sadness": 303539,
+      "surprise": 60961
+    }
+  },
+  {
+    "start": "Wed Jun 03 06:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Tue Jun 02 19:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Wed Jun 03 19:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1223491,
+      "anger": 92071,
+      "fear": 72281,
+      "joy": 691481,
+      "love": 95879,
+      "other": 248656,
+      "sadness": 274459,
+      "surprise": 58904
+    }
+  },
+  {
+    "start": "Wed Jun 03 07:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Tue Jun 02 20:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Wed Jun 03 20:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1155026,
+      "anger": 83150,
+      "fear": 67725,
+      "joy": 661407,
+      "love": 98864,
+      "other": 224328,
+      "sadness": 243675,
+      "surprise": 58298
+    }
+  },
+  {
+    "start": "Wed Jun 03 08:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Tue Jun 02 21:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Wed Jun 03 21:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1088499,
+      "anger": 76320,
+      "fear": 60015,
+      "joy": 638559,
+      "love": 88688,
+      "other": 208236,
+      "sadness": 221909,
+      "surprise": 56252
+    }
+  },
+  {
+    "start": "Wed Jun 03 09:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Tue Jun 02 22:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Wed Jun 03 22:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1066783,
+      "anger": 72592,
+      "fear": 55804,
+      "joy": 636041,
+      "love": 83140,
+      "other": 203215,
+      "sadness": 212567,
+      "surprise": 56870
+    }
+  },
+  {
+    "start": "Wed Jun 03 10:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Tue Jun 02 23:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Wed Jun 03 23:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1140175,
+      "anger": 80259,
+      "fear": 59232,
+      "joy": 675445,
+      "love": 87063,
+      "other": 225421,
+      "sadness": 227373,
+      "surprise": 59117
+    }
+  },
+  {
+    "start": "Wed Jun 03 11:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Wed Jun 03 00:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Thu Jun 04 00:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1233707,
+      "anger": 88962,
+      "fear": 67044,
+      "joy": 715527,
+      "love": 91418,
+      "other": 250188,
+      "sadness": 267075,
+      "surprise": 63724
+    }
+  },
+  {
+    "start": "Wed Jun 03 12:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Wed Jun 03 01:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Thu Jun 04 01:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1331748,
+      "anger": 99399,
+      "fear": 77934,
+      "joy": 766726,
+      "love": 102214,
+      "other": 276720,
+      "sadness": 292890,
+      "surprise": 68809
+    }
+  },
+  {
+    "start": "Wed Jun 03 13:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Wed Jun 03 02:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Thu Jun 04 02:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1364045,
+      "anger": 100710,
+      "fear": 78304,
+      "joy": 778114,
+      "love": 107146,
+      "other": 287972,
+      "sadness": 306066,
+      "surprise": 67682
+    }
+  },
+  {
+    "start": "Wed Jun 03 14:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Wed Jun 03 03:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Thu Jun 04 03:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1495465,
+      "anger": 118404,
+      "fear": 91963,
+      "joy": 849484,
+      "love": 119676,
+      "other": 318085,
+      "sadness": 349494,
+      "surprise": 81490
+    }
+  },
+  {
+    "start": "Wed Jun 03 15:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Wed Jun 03 04:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Thu Jun 04 04:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1410007,
+      "anger": 100728,
+      "fear": 94345,
+      "joy": 798590,
+      "love": 107695,
+      "other": 297836,
+      "sadness": 309726,
+      "surprise": 82402
+    }
+  },
+  {
+    "start": "Wed Jun 03 16:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Wed Jun 03 05:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Thu Jun 04 05:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1685050,
+      "anger": 135730,
+      "fear": 118261,
+      "joy": 943862,
+      "love": 131134,
+      "other": 338919,
+      "sadness": 401483,
+      "surprise": 96145
+    }
+  },
+  {
+    "start": "Wed Jun 03 17:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Wed Jun 03 06:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Thu Jun 04 06:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1501453,
+      "anger": 113694,
+      "fear": 104599,
+      "joy": 829664,
+      "love": 111406,
+      "other": 288352,
+      "sadness": 343258,
+      "surprise": 85359
+    }
+  },
+  {
+    "start": "Wed Jun 03 18:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Wed Jun 03 07:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Thu Jun 04 07:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1512959,
+      "anger": 114789,
+      "fear": 105560,
+      "joy": 836720,
+      "love": 113024,
+      "other": 284908,
+      "sadness": 350493,
+      "surprise": 92143
+    }
+  },
+  {
+    "start": "Wed Jun 03 19:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Wed Jun 03 08:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Thu Jun 04 08:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1496667,
+      "anger": 105919,
+      "fear": 114288,
+      "joy": 820000,
+      "love": 111564,
+      "other": 272793,
+      "sadness": 350987,
+      "surprise": 89645
+    }
+  },
+  {
+    "start": "Wed Jun 03 20:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Wed Jun 03 09:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Thu Jun 04 09:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1495481,
+      "anger": 108949,
+      "fear": 117056,
+      "joy": 813761,
+      "love": 108052,
+      "other": 269328,
+      "sadness": 350187,
+      "surprise": 89228
+    }
+  },
+  {
+    "start": "Wed Jun 03 21:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Wed Jun 03 10:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Thu Jun 04 10:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1489938,
+      "anger": 107255,
+      "fear": 114941,
+      "joy": 807705,
+      "love": 105383,
+      "other": 265646,
+      "sadness": 350441,
+      "surprise": 93700
+    }
+  },
+  {
+    "start": "Wed Jun 03 22:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Wed Jun 03 11:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Thu Jun 04 11:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1478700,
+      "anger": 106225,
+      "fear": 106457,
+      "joy": 803856,
+      "love": 105261,
+      "other": 262511,
+      "sadness": 353437,
+      "surprise": 98674
+    }
+  },
+  {
+    "start": "Wed Jun 03 23:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Wed Jun 03 12:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Thu Jun 04 12:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1438431,
+      "anger": 101318,
+      "fear": 101092,
+      "joy": 777497,
+      "love": 100037,
+      "other": 258766,
+      "sadness": 336307,
+      "surprise": 97813
+    }
+  },
+  {
+    "start": "Thu Jun 04 00:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Wed Jun 03 13:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Thu Jun 04 13:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1420509,
+      "anger": 100417,
+      "fear": 95790,
+      "joy": 773484,
+      "love": 104824,
+      "other": 259109,
+      "sadness": 323604,
+      "surprise": 98483
+    }
+  },
+  {
+    "start": "Thu Jun 04 01:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Wed Jun 03 14:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Thu Jun 04 14:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1424327,
+      "anger": 99494,
+      "fear": 94067,
+      "joy": 773238,
+      "love": 102158,
+      "other": 267347,
+      "sadness": 326916,
+      "surprise": 95867
+    }
+  },
+  {
+    "start": "Thu Jun 04 02:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Wed Jun 03 15:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Thu Jun 04 15:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1448085,
+      "anger": 93201,
+      "fear": 93434,
+      "joy": 806950,
+      "love": 102804,
+      "other": 271561,
+      "sadness": 327564,
+      "surprise": 94614
+    }
+  },
+  {
+    "start": "Thu Jun 04 03:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Wed Jun 03 16:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Thu Jun 04 16:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1397239,
+      "anger": 89459,
+      "fear": 85465,
+      "joy": 780406,
+      "love": 98110,
+      "other": 269484,
+      "sadness": 307955,
+      "surprise": 92224
+    }
+  },
+  {
+    "start": "Thu Jun 04 04:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Wed Jun 03 17:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Thu Jun 04 17:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1338917,
+      "anger": 86879,
+      "fear": 80872,
+      "joy": 751179,
+      "love": 93251,
+      "other": 256863,
+      "sadness": 292503,
+      "surprise": 80523
+    }
+  },
+  {
+    "start": "Thu Jun 04 05:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Wed Jun 03 18:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Thu Jun 04 18:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1280414,
+      "anger": 81205,
+      "fear": 77946,
+      "joy": 722096,
+      "love": 92540,
+      "other": 239387,
+      "sadness": 277806,
+      "surprise": 71205
+    }
+  },
+  {
+    "start": "Thu Jun 04 06:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Wed Jun 03 19:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Thu Jun 04 19:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1276584,
+      "anger": 81537,
+      "fear": 79585,
+      "joy": 717027,
+      "love": 95546,
+      "other": 238545,
+      "sadness": 276236,
+      "surprise": 71323
+    }
+  },
+  {
+    "start": "Thu Jun 04 07:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Wed Jun 03 20:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Thu Jun 04 20:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1193815,
+      "anger": 73264,
+      "fear": 74331,
+      "joy": 679049,
+      "love": 93550,
+      "other": 218631,
+      "sadness": 249034,
+      "surprise": 66272
+    }
+  },
+  {
+    "start": "Thu Jun 04 08:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Wed Jun 03 21:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Thu Jun 04 21:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1116258,
+      "anger": 65427,
+      "fear": 65246,
+      "joy": 648938,
+      "love": 84324,
+      "other": 204241,
+      "sadness": 223952,
+      "surprise": 65467
+    }
+  },
+  {
+    "start": "Thu Jun 04 09:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Wed Jun 03 22:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Thu Jun 04 22:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1102036,
+      "anger": 63682,
+      "fear": 62323,
+      "joy": 647627,
+      "love": 85121,
+      "other": 203395,
+      "sadness": 212707,
+      "surprise": 66241
+    }
+  },
+  {
+    "start": "Thu Jun 04 10:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Wed Jun 03 23:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Thu Jun 04 23:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1157409,
+      "anger": 67962,
+      "fear": 64299,
+      "joy": 672250,
+      "love": 85655,
+      "other": 216028,
+      "sadness": 228282,
+      "surprise": 69583
+    }
+  },
+  {
+    "start": "Thu Jun 04 11:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Thu Jun 04 00:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Fri Jun 05 00:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1269292,
+      "anger": 73906,
+      "fear": 74744,
+      "joy": 735288,
+      "love": 90808,
+      "other": 234404,
+      "sadness": 261740,
+      "surprise": 73993
+    }
+  },
+  {
+    "start": "Thu Jun 04 12:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Thu Jun 04 01:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Fri Jun 05 01:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1408534,
+      "anger": 90617,
+      "fear": 88716,
+      "joy": 810029,
+      "love": 109118,
+      "other": 267142,
+      "sadness": 296465,
+      "surprise": 81112
+    }
+  },
+  {
+    "start": "Thu Jun 04 13:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Thu Jun 04 02:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Fri Jun 05 02:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1429966,
+      "anger": 96381,
+      "fear": 93417,
+      "joy": 808591,
+      "love": 109922,
+      "other": 272175,
+      "sadness": 297859,
+      "surprise": 84083
+    }
+  },
+  {
+    "start": "Thu Jun 04 14:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Thu Jun 04 03:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Fri Jun 05 03:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1569060,
+      "anger": 111612,
+      "fear": 115441,
+      "joy": 886036,
+      "love": 125943,
+      "other": 318293,
+      "sadness": 341422,
+      "surprise": 101604
+    }
+  },
+  {
+    "start": "Thu Jun 04 15:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Thu Jun 04 04:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Fri Jun 05 04:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1557378,
+      "anger": 101417,
+      "fear": 113614,
+      "joy": 869227,
+      "love": 128599,
+      "other": 316976,
+      "sadness": 354788,
+      "surprise": 111173
+    }
+  },
+  {
+    "start": "Thu Jun 04 16:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Thu Jun 04 05:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Fri Jun 05 05:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1615130,
+      "anger": 109564,
+      "fear": 111251,
+      "joy": 907039,
+      "love": 131696,
+      "other": 323063,
+      "sadness": 353899,
+      "surprise": 93337
+    }
+  },
+  {
+    "start": "Thu Jun 04 17:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Thu Jun 04 06:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Fri Jun 05 06:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1490791,
+      "anger": 103546,
+      "fear": 100008,
+      "joy": 819078,
+      "love": 112740,
+      "other": 290281,
+      "sadness": 331143,
+      "surprise": 84253
+    }
+  },
+  {
+    "start": "Thu Jun 04 18:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Thu Jun 04 07:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Fri Jun 05 07:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1528327,
+      "anger": 111243,
+      "fear": 102487,
+      "joy": 826588,
+      "love": 115989,
+      "other": 298062,
+      "sadness": 354286,
+      "surprise": 84706
+    }
+  },
+  {
+    "start": "Thu Jun 04 19:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Thu Jun 04 08:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Fri Jun 05 08:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1450440,
+      "anger": 105441,
+      "fear": 93985,
+      "joy": 772394,
+      "love": 108731,
+      "other": 281440,
+      "sadness": 341861,
+      "surprise": 78238
+    }
+  },
+  {
+    "start": "Thu Jun 04 20:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Thu Jun 04 09:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Fri Jun 05 09:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1439784,
+      "anger": 107470,
+      "fear": 92751,
+      "joy": 771903,
+      "love": 107025,
+      "other": 272287,
+      "sadness": 338370,
+      "surprise": 82225
+    }
+  },
+  {
+    "start": "Thu Jun 04 21:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Thu Jun 04 10:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Fri Jun 05 10:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1413700,
+      "anger": 108789,
+      "fear": 93187,
+      "joy": 752356,
+      "love": 103284,
+      "other": 261315,
+      "sadness": 332171,
+      "surprise": 81579
+    }
+  },
+  {
+    "start": "Thu Jun 04 22:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Thu Jun 04 11:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Fri Jun 05 11:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1395724,
+      "anger": 103447,
+      "fear": 94990,
+      "joy": 744899,
+      "love": 100446,
+      "other": 253169,
+      "sadness": 331914,
+      "surprise": 79573
+    }
+  },
+  {
+    "start": "Thu Jun 04 23:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Thu Jun 04 12:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Fri Jun 05 12:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1371073,
+      "anger": 98417,
+      "fear": 93565,
+      "joy": 741046,
+      "love": 95342,
+      "other": 254131,
+      "sadness": 326164,
+      "surprise": 77338
+    }
+  },
+  {
+    "start": "Fri Jun 05 00:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Thu Jun 04 13:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Fri Jun 05 13:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1335354,
+      "anger": 95831,
+      "fear": 87800,
+      "joy": 723175,
+      "love": 92823,
+      "other": 249717,
+      "sadness": 316112,
+      "surprise": 75763
+    }
+  },
+  {
+    "start": "Fri Jun 05 01:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Thu Jun 04 14:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Fri Jun 05 14:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1349950,
+      "anger": 99682,
+      "fear": 87090,
+      "joy": 723233,
+      "love": 94423,
+      "other": 255158,
+      "sadness": 317352,
+      "surprise": 76004
+    }
+  },
+  {
+    "start": "Fri Jun 05 02:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Thu Jun 04 15:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Fri Jun 05 15:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1386548,
+      "anger": 107446,
+      "fear": 89285,
+      "joy": 733046,
+      "love": 95069,
+      "other": 273072,
+      "sadness": 329447,
+      "surprise": 77984
+    }
+  },
+  {
+    "start": "Fri Jun 05 03:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Thu Jun 04 16:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Fri Jun 05 16:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1357631,
+      "anger": 105342,
+      "fear": 85677,
+      "joy": 725181,
+      "love": 93773,
+      "other": 261891,
+      "sadness": 315140,
+      "surprise": 75370
+    }
+  },
+  {
+    "start": "Fri Jun 05 04:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Thu Jun 04 17:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Fri Jun 05 17:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1320868,
+      "anger": 101845,
+      "fear": 84003,
+      "joy": 706878,
+      "love": 90669,
+      "other": 251628,
+      "sadness": 306516,
+      "surprise": 69779
+    }
+  },
+  {
+    "start": "Fri Jun 05 05:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Thu Jun 04 18:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Fri Jun 05 18:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1256082,
+      "anger": 93060,
+      "fear": 76320,
+      "joy": 680894,
+      "love": 84845,
+      "other": 235262,
+      "sadness": 285226,
+      "surprise": 66511
+    }
+  },
+  {
+    "start": "Fri Jun 05 06:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Thu Jun 04 19:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Fri Jun 05 19:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1185032,
+      "anger": 79891,
+      "fear": 68554,
+      "joy": 659480,
+      "love": 83917,
+      "other": 221656,
+      "sadness": 257064,
+      "surprise": 66126
+    }
+  },
+  {
+    "start": "Fri Jun 05 07:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Thu Jun 04 20:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Fri Jun 05 20:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1152805,
+      "anger": 70603,
+      "fear": 60962,
+      "joy": 658383,
+      "love": 84534,
+      "other": 209483,
+      "sadness": 237926,
+      "surprise": 67222
+    }
+  },
+  {
+    "start": "Fri Jun 05 08:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Thu Jun 04 21:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Fri Jun 05 21:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1104422,
+      "anger": 62412,
+      "fear": 56209,
+      "joy": 636608,
+      "love": 82496,
+      "other": 199914,
+      "sadness": 220830,
+      "surprise": 66581
+    }
+  },
+  {
+    "start": "Fri Jun 05 09:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Thu Jun 04 22:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Fri Jun 05 22:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1142663,
+      "anger": 59804,
+      "fear": 57774,
+      "joy": 669353,
+      "love": 88721,
+      "other": 205704,
+      "sadness": 218531,
+      "surprise": 72919
+    }
+  },
+  {
+    "start": "Fri Jun 05 10:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Thu Jun 04 23:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Fri Jun 05 23:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1166266,
+      "anger": 63638,
+      "fear": 56049,
+      "joy": 683525,
+      "love": 93675,
+      "other": 210119,
+      "sadness": 227550,
+      "surprise": 69475
+    }
+  },
+  {
+    "start": "Fri Jun 05 11:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Fri Jun 05 00:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Sat Jun 06 00:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1242589,
+      "anger": 71264,
+      "fear": 59965,
+      "joy": 728877,
+      "love": 98960,
+      "other": 227015,
+      "sadness": 252835,
+      "surprise": 68627
+    }
+  },
+  {
+    "start": "Fri Jun 05 12:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Fri Jun 05 01:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Sat Jun 06 01:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1355295,
+      "anger": 84209,
+      "fear": 69565,
+      "joy": 788387,
+      "love": 103545,
+      "other": 246268,
+      "sadness": 288829,
+      "surprise": 76344
+    }
+  },
+  {
+    "start": "Fri Jun 05 13:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Fri Jun 05 02:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Sat Jun 06 02:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1413341,
+      "anger": 92842,
+      "fear": 76571,
+      "joy": 816287,
+      "love": 108254,
+      "other": 257278,
+      "sadness": 302821,
+      "surprise": 78625
+    }
+  },
+  {
+    "start": "Fri Jun 05 14:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Fri Jun 05 03:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Sat Jun 06 03:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1544188,
+      "anger": 107743,
+      "fear": 86513,
+      "joy": 884701,
+      "love": 124707,
+      "other": 284191,
+      "sadness": 353707,
+      "surprise": 89541
+    }
+  },
+  {
+    "start": "Fri Jun 05 15:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Fri Jun 05 04:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Sat Jun 06 04:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1462579,
+      "anger": 100534,
+      "fear": 77100,
+      "joy": 838834,
+      "love": 116324,
+      "other": 266578,
+      "sadness": 327009,
+      "surprise": 83321
+    }
+  },
+  {
+    "start": "Fri Jun 05 16:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Fri Jun 05 05:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Sat Jun 06 05:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1610781,
+      "anger": 125192,
+      "fear": 89992,
+      "joy": 919630,
+      "love": 129977,
+      "other": 303263,
+      "sadness": 371118,
+      "surprise": 90830
+    }
+  },
+  {
+    "start": "Fri Jun 05 17:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Fri Jun 05 06:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Sat Jun 06 06:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1472865,
+      "anger": 116665,
+      "fear": 94014,
+      "joy": 815444,
+      "love": 112618,
+      "other": 279098,
+      "sadness": 324605,
+      "surprise": 78457
+    }
+  },
+  {
+    "start": "Fri Jun 05 18:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Fri Jun 05 07:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Sat Jun 06 07:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1447399,
+      "anger": 108604,
+      "fear": 90771,
+      "joy": 800849,
+      "love": 110480,
+      "other": 281704,
+      "sadness": 317657,
+      "surprise": 78124
+    }
+  },
+  {
+    "start": "Fri Jun 05 19:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Fri Jun 05 08:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Sat Jun 06 08:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1408467,
+      "anger": 103374,
+      "fear": 81444,
+      "joy": 767037,
+      "love": 104478,
+      "other": 278301,
+      "sadness": 317961,
+      "surprise": 74564
+    }
+  },
+  {
+    "start": "Fri Jun 05 20:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Fri Jun 05 09:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Sat Jun 06 09:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1382370,
+      "anger": 100088,
+      "fear": 77984,
+      "joy": 745465,
+      "love": 100061,
+      "other": 269531,
+      "sadness": 324082,
+      "surprise": 71787
+    }
+  },
+  {
+    "start": "Fri Jun 05 21:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Fri Jun 05 10:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Sat Jun 06 10:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1397832,
+      "anger": 99705,
+      "fear": 81747,
+      "joy": 754990,
+      "love": 96371,
+      "other": 273008,
+      "sadness": 322673,
+      "surprise": 74725
+    }
+  },
+  {
+    "start": "Fri Jun 05 22:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Fri Jun 05 11:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Sat Jun 06 11:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1385813,
+      "anger": 94762,
+      "fear": 80203,
+      "joy": 758804,
+      "love": 95389,
+      "other": 264555,
+      "sadness": 316889,
+      "surprise": 74494
+    }
+  },
+  {
+    "start": "Fri Jun 05 23:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Fri Jun 05 12:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Sat Jun 06 12:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1378467,
+      "anger": 92346,
+      "fear": 85534,
+      "joy": 756331,
+      "love": 93605,
+      "other": 265324,
+      "sadness": 304640,
+      "surprise": 73417
+    }
+  },
+  {
+    "start": "Sat Jun 06 00:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Fri Jun 05 13:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Sat Jun 06 13:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1369670,
+      "anger": 86111,
+      "fear": 102438,
+      "joy": 742913,
+      "love": 88485,
+      "other": 262719,
+      "sadness": 292063,
+      "surprise": 72106
+    }
+  },
+  {
+    "start": "Sat Jun 06 01:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Fri Jun 05 14:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Sat Jun 06 14:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1384097,
+      "anger": 83152,
+      "fear": 102829,
+      "joy": 753958,
+      "love": 89709,
+      "other": 264532,
+      "sadness": 294382,
+      "surprise": 70432
+    }
+  },
+  {
+    "start": "Sat Jun 06 02:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Fri Jun 05 15:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Sat Jun 06 15:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1370086,
+      "anger": 82565,
+      "fear": 101888,
+      "joy": 746653,
+      "love": 90505,
+      "other": 266042,
+      "sadness": 294787,
+      "surprise": 71161
+    }
+  },
+  {
+    "start": "Sat Jun 06 03:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Fri Jun 05 16:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Sat Jun 06 16:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1327789,
+      "anger": 78648,
+      "fear": 97766,
+      "joy": 726875,
+      "love": 88727,
+      "other": 255592,
+      "sadness": 281962,
+      "surprise": 72787
+    }
+  },
+  {
+    "start": "Sat Jun 06 04:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Fri Jun 05 17:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Sat Jun 06 17:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1268285,
+      "anger": 73917,
+      "fear": 88587,
+      "joy": 697532,
+      "love": 86544,
+      "other": 241256,
+      "sadness": 264981,
+      "surprise": 67484
+    }
+  },
+  {
+    "start": "Sat Jun 06 05:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Fri Jun 05 18:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Sat Jun 06 18:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1192476,
+      "anger": 67166,
+      "fear": 78272,
+      "joy": 666896,
+      "love": 84355,
+      "other": 228616,
+      "sadness": 240101,
+      "surprise": 62342
+    }
+  },
+  {
+    "start": "Sat Jun 06 06:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Fri Jun 05 19:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Sat Jun 06 19:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1125284,
+      "anger": 62240,
+      "fear": 70129,
+      "joy": 643867,
+      "love": 81933,
+      "other": 211505,
+      "sadness": 223565,
+      "surprise": 59876
+    }
+  },
+  {
+    "start": "Sat Jun 06 07:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Fri Jun 05 20:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Sat Jun 06 20:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1069078,
+      "anger": 56571,
+      "fear": 65667,
+      "joy": 623960,
+      "love": 78267,
+      "other": 201720,
+      "sadness": 202528,
+      "surprise": 57669
+    }
+  },
+  {
+    "start": "Sat Jun 06 08:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Fri Jun 05 21:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Sat Jun 06 21:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1016484,
+      "anger": 51956,
+      "fear": 60156,
+      "joy": 604936,
+      "love": 73812,
+      "other": 187008,
+      "sadness": 187510,
+      "surprise": 57978
+    }
+  },
+  {
+    "start": "Sat Jun 06 09:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Fri Jun 05 22:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Sat Jun 06 22:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1008661,
+      "anger": 49276,
+      "fear": 55399,
+      "joy": 609409,
+      "love": 71228,
+      "other": 187427,
+      "sadness": 181295,
+      "surprise": 56371
+    }
+  },
+  {
+    "start": "Sat Jun 06 10:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Fri Jun 05 23:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Sat Jun 06 23:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1110237,
+      "anger": 51702,
+      "fear": 67797,
+      "joy": 667224,
+      "love": 79027,
+      "other": 208624,
+      "sadness": 202630,
+      "surprise": 61578
+    }
+  },
+  {
+    "start": "Sat Jun 06 11:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Sat Jun 06 00:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Sun Jun 07 00:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1211980,
+      "anger": 64720,
+      "fear": 71549,
+      "joy": 717905,
+      "love": 87754,
+      "other": 225382,
+      "sadness": 251213,
+      "surprise": 61608
+    }
+  },
+  {
+    "start": "Sat Jun 06 12:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Sat Jun 06 01:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Sun Jun 07 01:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1288547,
+      "anger": 73201,
+      "fear": 76332,
+      "joy": 753750,
+      "love": 90845,
+      "other": 251599,
+      "sadness": 263026,
+      "surprise": 64484
+    }
+  },
+  {
+    "start": "Sat Jun 06 13:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Sat Jun 06 02:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Sun Jun 07 02:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1376561,
+      "anger": 82726,
+      "fear": 83010,
+      "joy": 795030,
+      "love": 97021,
+      "other": 266575,
+      "sadness": 283779,
+      "surprise": 66699
+    }
+  },
+  {
+    "start": "Sat Jun 06 14:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Sat Jun 06 03:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Sun Jun 07 03:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1535329,
+      "anger": 96706,
+      "fear": 99944,
+      "joy": 876488,
+      "love": 112148,
+      "other": 303779,
+      "sadness": 337067,
+      "surprise": 78472
+    }
+  },
+  {
+    "start": "Sat Jun 06 15:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Sat Jun 06 04:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Sun Jun 07 04:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1500319,
+      "anger": 93009,
+      "fear": 95426,
+      "joy": 868796,
+      "love": 106736,
+      "other": 282047,
+      "sadness": 313998,
+      "surprise": 74019
+    }
+  },
+  {
+    "start": "Sat Jun 06 16:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Sat Jun 06 05:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Sun Jun 07 05:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1612202,
+      "anger": 99829,
+      "fear": 111953,
+      "joy": 928254,
+      "love": 118406,
+      "other": 305844,
+      "sadness": 354335,
+      "surprise": 80663
+    }
+  },
+  {
+    "start": "Sat Jun 06 17:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Sat Jun 06 06:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Sun Jun 07 06:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1481273,
+      "anger": 91604,
+      "fear": 106940,
+      "joy": 835329,
+      "love": 104829,
+      "other": 274420,
+      "sadness": 313243,
+      "surprise": 71902
+    }
+  },
+  {
+    "start": "Sat Jun 06 18:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Sat Jun 06 07:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Sun Jun 07 07:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1459234,
+      "anger": 91722,
+      "fear": 105795,
+      "joy": 819739,
+      "love": 104090,
+      "other": 270038,
+      "sadness": 313196,
+      "surprise": 73774
+    }
+  },
+  {
+    "start": "Sat Jun 06 19:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Sat Jun 06 08:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Sun Jun 07 08:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1416794,
+      "anger": 92121,
+      "fear": 103157,
+      "joy": 788874,
+      "love": 99009,
+      "other": 262239,
+      "sadness": 311045,
+      "surprise": 72750
+    }
+  },
+  {
+    "start": "Sat Jun 06 20:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Sat Jun 06 09:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Sun Jun 07 09:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1391562,
+      "anger": 94333,
+      "fear": 99907,
+      "joy": 768031,
+      "love": 98579,
+      "other": 259175,
+      "sadness": 307654,
+      "surprise": 73950
+    }
+  },
+  {
+    "start": "Sat Jun 06 21:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Sat Jun 06 10:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Sun Jun 07 10:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1382703,
+      "anger": 99734,
+      "fear": 94275,
+      "joy": 763797,
+      "love": 97189,
+      "other": 260712,
+      "sadness": 300202,
+      "surprise": 77024
+    }
+  },
+  {
+    "start": "Sat Jun 06 22:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Sat Jun 06 11:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Sun Jun 07 11:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1391803,
+      "anger": 96784,
+      "fear": 91484,
+      "joy": 776211,
+      "love": 96252,
+      "other": 259415,
+      "sadness": 304278,
+      "surprise": 79093
+    }
+  },
+  {
+    "start": "Sat Jun 06 23:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Sat Jun 06 12:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Sun Jun 07 12:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1382245,
+      "anger": 91366,
+      "fear": 84685,
+      "joy": 775908,
+      "love": 97202,
+      "other": 262392,
+      "sadness": 303543,
+      "surprise": 77587
+    }
+  },
+  {
+    "start": "Sun Jun 07 00:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Sat Jun 06 13:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Sun Jun 07 13:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1355915,
+      "anger": 89879,
+      "fear": 79955,
+      "joy": 764171,
+      "love": 94752,
+      "other": 260358,
+      "sadness": 289672,
+      "surprise": 77619
+    }
+  },
+  {
+    "start": "Sun Jun 07 01:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Sat Jun 06 14:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Sun Jun 07 14:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1354824,
+      "anger": 87450,
+      "fear": 77210,
+      "joy": 762850,
+      "love": 96792,
+      "other": 262732,
+      "sadness": 290356,
+      "surprise": 77601
+    }
+  },
+  {
+    "start": "Sun Jun 07 02:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Sat Jun 06 15:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Sun Jun 07 15:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1362549,
+      "anger": 83761,
+      "fear": 77199,
+      "joy": 769414,
+      "love": 97012,
+      "other": 264308,
+      "sadness": 295437,
+      "surprise": 79692
+    }
+  },
+  {
+    "start": "Sun Jun 07 03:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Sat Jun 06 16:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Sun Jun 07 16:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1337356,
+      "anger": 77582,
+      "fear": 74851,
+      "joy": 758540,
+      "love": 93819,
+      "other": 261341,
+      "sadness": 285776,
+      "surprise": 80616
+    }
+  },
+  {
+    "start": "Sun Jun 07 04:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Sat Jun 06 17:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Sun Jun 07 17:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1290097,
+      "anger": 70400,
+      "fear": 69369,
+      "joy": 740783,
+      "love": 93548,
+      "other": 256441,
+      "sadness": 271793,
+      "surprise": 78192
+    }
+  },
+  {
+    "start": "Sun Jun 07 05:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Sat Jun 06 18:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Sun Jun 07 18:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1254260,
+      "anger": 63986,
+      "fear": 64456,
+      "joy": 727160,
+      "love": 99338,
+      "other": 248367,
+      "sadness": 258943,
+      "surprise": 82476
+    }
+  },
+  {
+    "start": "Sun Jun 07 06:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Sat Jun 06 19:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Sun Jun 07 19:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1182468,
+      "anger": 59501,
+      "fear": 58015,
+      "joy": 690932,
+      "love": 96127,
+      "other": 230023,
+      "sadness": 240080,
+      "surprise": 72847
+    }
+  },
+  {
+    "start": "Sun Jun 07 07:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Sat Jun 06 20:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Sun Jun 07 20:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1136983,
+      "anger": 57427,
+      "fear": 54961,
+      "joy": 668992,
+      "love": 97800,
+      "other": 217072,
+      "sadness": 221397,
+      "surprise": 70739
+    }
+  },
+  {
+    "start": "Sun Jun 07 08:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Sat Jun 06 21:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Sun Jun 07 21:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1135181,
+      "anger": 56736,
+      "fear": 50152,
+      "joy": 668294,
+      "love": 98377,
+      "other": 223419,
+      "sadness": 216314,
+      "surprise": 74598
+    }
+  },
+  {
+    "start": "Sun Jun 07 09:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Sat Jun 06 22:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Sun Jun 07 22:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1111812,
+      "anger": 55920,
+      "fear": 48057,
+      "joy": 663530,
+      "love": 95064,
+      "other": 215754,
+      "sadness": 212110,
+      "surprise": 66227
+    }
+  },
+  {
+    "start": "Sun Jun 07 10:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Sat Jun 06 23:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Sun Jun 07 23:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1098251,
+      "anger": 55961,
+      "fear": 49314,
+      "joy": 660390,
+      "love": 92446,
+      "other": 211639,
+      "sadness": 208502,
+      "surprise": 62635
+    }
+  },
+  {
+    "start": "Sun Jun 07 11:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Sun Jun 07 00:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Mon Jun 08 00:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1162694,
+      "anger": 62035,
+      "fear": 51109,
+      "joy": 691675,
+      "love": 96463,
+      "other": 222606,
+      "sadness": 226802,
+      "surprise": 69198
+    }
+  },
+  {
+    "start": "Sun Jun 07 12:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Sun Jun 07 01:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Mon Jun 08 01:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1284723,
+      "anger": 70753,
+      "fear": 57823,
+      "joy": 746415,
+      "love": 122794,
+      "other": 246166,
+      "sadness": 254903,
+      "surprise": 76864
+    }
+  },
+  {
+    "start": "Sun Jun 07 13:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Sun Jun 07 02:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Mon Jun 08 02:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1355237,
+      "anger": 78246,
+      "fear": 63291,
+      "joy": 785720,
+      "love": 116751,
+      "other": 267024,
+      "sadness": 285549,
+      "surprise": 80164
+    }
+  },
+  {
+    "start": "Sun Jun 07 14:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Sun Jun 07 03:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Mon Jun 08 03:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1524872,
+      "anger": 89928,
+      "fear": 74973,
+      "joy": 881297,
+      "love": 131308,
+      "other": 306857,
+      "sadness": 335338,
+      "surprise": 93703
+    }
+  },
+  {
+    "start": "Sun Jun 07 15:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Sun Jun 07 04:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Mon Jun 08 04:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1549407,
+      "anger": 107192,
+      "fear": 71406,
+      "joy": 828025,
+      "love": 118272,
+      "other": 381535,
+      "sadness": 408187,
+      "surprise": 96839
+    }
+  },
+  {
+    "start": "Sun Jun 07 16:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Sun Jun 07 05:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Mon Jun 08 05:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1650341,
+      "anger": 108234,
+      "fear": 79646,
+      "joy": 914666,
+      "love": 131630,
+      "other": 366779,
+      "sadness": 412838,
+      "surprise": 101771
+    }
+  },
+  {
+    "start": "Sun Jun 07 17:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Sun Jun 07 06:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Mon Jun 08 06:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1492017,
+      "anger": 95718,
+      "fear": 69402,
+      "joy": 819434,
+      "love": 111606,
+      "other": 316124,
+      "sadness": 352155,
+      "surprise": 92506
+    }
+  },
+  {
+    "start": "Sun Jun 07 18:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Sun Jun 07 07:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Mon Jun 08 07:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1448652,
+      "anger": 95004,
+      "fear": 68903,
+      "joy": 802195,
+      "love": 106689,
+      "other": 298008,
+      "sadness": 339485,
+      "surprise": 86057
+    }
+  },
+  {
+    "start": "Sun Jun 07 19:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Sun Jun 07 08:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Mon Jun 08 08:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1443867,
+      "anger": 89605,
+      "fear": 67433,
+      "joy": 812281,
+      "love": 117855,
+      "other": 284099,
+      "sadness": 321099,
+      "surprise": 91545
+    }
+  },
+  {
+    "start": "Sun Jun 07 20:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Sun Jun 07 09:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Mon Jun 08 09:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1493289,
+      "anger": 94876,
+      "fear": 90357,
+      "joy": 838727,
+      "love": 111586,
+      "other": 275873,
+      "sadness": 319742,
+      "surprise": 99557
+    }
+  },
+  {
+    "start": "Sun Jun 07 21:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Sun Jun 07 10:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Mon Jun 08 10:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1435347,
+      "anger": 94803,
+      "fear": 77172,
+      "joy": 812349,
+      "love": 108459,
+      "other": 269380,
+      "sadness": 302969,
+      "surprise": 94488
+    }
+  },
+  {
+    "start": "Sun Jun 07 22:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Sun Jun 07 11:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Mon Jun 08 11:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1402794,
+      "anger": 92826,
+      "fear": 76120,
+      "joy": 774747,
+      "love": 103725,
+      "other": 273363,
+      "sadness": 305083,
+      "surprise": 98269
+    }
+  },
+  {
+    "start": "Sun Jun 07 23:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Sun Jun 07 12:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Mon Jun 08 12:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1468434,
+      "anger": 92278,
+      "fear": 73315,
+      "joy": 807967,
+      "love": 101771,
+      "other": 288117,
+      "sadness": 327774,
+      "surprise": 105332
+    }
+  },
+  {
+    "start": "Mon Jun 08 00:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Sun Jun 07 13:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Mon Jun 08 13:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1408062,
+      "anger": 85932,
+      "fear": 71627,
+      "joy": 781750,
+      "love": 98675,
+      "other": 269243,
+      "sadness": 305765,
+      "surprise": 105250
+    }
+  },
+  {
+    "start": "Mon Jun 08 01:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Sun Jun 07 14:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Mon Jun 08 14:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1375615,
+      "anger": 84994,
+      "fear": 73363,
+      "joy": 764535,
+      "love": 96555,
+      "other": 266658,
+      "sadness": 289588,
+      "surprise": 105172
+    }
+  },
+  {
+    "start": "Mon Jun 08 02:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Sun Jun 07 15:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Mon Jun 08 15:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1363648,
+      "anger": 83549,
+      "fear": 80758,
+      "joy": 747666,
+      "love": 95393,
+      "other": 263203,
+      "sadness": 296410,
+      "surprise": 96497
+    }
+  },
+  {
+    "start": "Mon Jun 08 03:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Sun Jun 07 16:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Mon Jun 08 16:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1328161,
+      "anger": 79407,
+      "fear": 75626,
+      "joy": 730491,
+      "love": 94501,
+      "other": 261467,
+      "sadness": 286804,
+      "surprise": 90681
+    }
+  },
+  {
+    "start": "Mon Jun 08 04:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Sun Jun 07 17:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Mon Jun 08 17:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1266241,
+      "anger": 74063,
+      "fear": 69578,
+      "joy": 701342,
+      "love": 91925,
+      "other": 250831,
+      "sadness": 265342,
+      "surprise": 85203
+    }
+  },
+  {
+    "start": "Mon Jun 08 05:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Sun Jun 07 18:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Mon Jun 08 18:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1201305,
+      "anger": 70021,
+      "fear": 65300,
+      "joy": 669338,
+      "love": 89474,
+      "other": 237625,
+      "sadness": 239413,
+      "surprise": 77001
+    }
+  },
+  {
+    "start": "Mon Jun 08 06:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Sun Jun 07 19:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Mon Jun 08 19:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1135995,
+      "anger": 66596,
+      "fear": 59239,
+      "joy": 640935,
+      "love": 84246,
+      "other": 226286,
+      "sadness": 221417,
+      "surprise": 69639
+    }
+  },
+  {
+    "start": "Mon Jun 08 07:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Sun Jun 07 20:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Mon Jun 08 20:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1083058,
+      "anger": 63315,
+      "fear": 55106,
+      "joy": 619817,
+      "love": 81632,
+      "other": 210123,
+      "sadness": 204107,
+      "surprise": 65011
+    }
+  },
+  {
+    "start": "Mon Jun 08 08:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Sun Jun 07 21:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Mon Jun 08 21:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1032922,
+      "anger": 59444,
+      "fear": 49405,
+      "joy": 603017,
+      "love": 77408,
+      "other": 196824,
+      "sadness": 191895,
+      "surprise": 61545
+    }
+  },
+  {
+    "start": "Mon Jun 08 09:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Sun Jun 07 22:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Mon Jun 08 22:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1032272,
+      "anger": 57799,
+      "fear": 46539,
+      "joy": 606251,
+      "love": 81031,
+      "other": 196939,
+      "sadness": 190094,
+      "surprise": 60864
+    }
+  },
+  {
+    "start": "Mon Jun 08 10:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Sun Jun 07 23:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Mon Jun 08 23:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1080435,
+      "anger": 61713,
+      "fear": 50599,
+      "joy": 626257,
+      "love": 82699,
+      "other": 205839,
+      "sadness": 208645,
+      "surprise": 63553
+    }
+  },
+  {
+    "start": "Mon Jun 08 11:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Mon Jun 08 00:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Tue Jun 09 00:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1182407,
+      "anger": 70421,
+      "fear": 59738,
+      "joy": 676011,
+      "love": 88786,
+      "other": 222480,
+      "sadness": 237091,
+      "surprise": 70973
+    }
+  },
+  {
+    "start": "Mon Jun 08 12:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Mon Jun 08 01:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Tue Jun 09 01:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1285293,
+      "anger": 82374,
+      "fear": 68135,
+      "joy": 710032,
+      "love": 98446,
+      "other": 255362,
+      "sadness": 274986,
+      "surprise": 73629
+    }
+  },
+  {
+    "start": "Mon Jun 08 13:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Mon Jun 08 02:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Tue Jun 09 02:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1379331,
+      "anger": 94167,
+      "fear": 79840,
+      "joy": 745742,
+      "love": 107672,
+      "other": 275543,
+      "sadness": 301674,
+      "surprise": 79176
+    }
+  },
+  {
+    "start": "Mon Jun 08 14:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Mon Jun 08 03:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Tue Jun 09 03:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1604842,
+      "anger": 121326,
+      "fear": 101784,
+      "joy": 874952,
+      "love": 132401,
+      "other": 322414,
+      "sadness": 373470,
+      "surprise": 95811
+    }
+  },
+  {
+    "start": "Mon Jun 08 15:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Mon Jun 08 04:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Tue Jun 09 04:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1595933,
+      "anger": 117572,
+      "fear": 100934,
+      "joy": 880474,
+      "love": 123215,
+      "other": 310053,
+      "sadness": 356305,
+      "surprise": 97554
+    }
+  },
+  {
+    "start": "Mon Jun 08 16:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Mon Jun 08 05:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Tue Jun 09 05:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1525779,
+      "anger": 119499,
+      "fear": 92491,
+      "joy": 833582,
+      "love": 116973,
+      "other": 293224,
+      "sadness": 335086,
+      "surprise": 90153
+    }
+  },
+  {
+    "start": "Mon Jun 08 17:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Mon Jun 08 06:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Tue Jun 09 06:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1472916,
+      "anger": 112257,
+      "fear": 88080,
+      "joy": 797123,
+      "love": 112398,
+      "other": 278482,
+      "sadness": 323579,
+      "surprise": 83570
+    }
+  },
+  {
+    "start": "Mon Jun 08 18:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Mon Jun 08 07:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Tue Jun 09 07:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1455511,
+      "anger": 112116,
+      "fear": 87154,
+      "joy": 784973,
+      "love": 111567,
+      "other": 268810,
+      "sadness": 318264,
+      "surprise": 85388
+    }
+  },
+  {
+    "start": "Mon Jun 08 19:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Mon Jun 08 08:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Tue Jun 09 08:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1437663,
+      "anger": 113013,
+      "fear": 83450,
+      "joy": 779415,
+      "love": 108783,
+      "other": 260181,
+      "sadness": 313737,
+      "surprise": 85779
+    }
+  },
+  {
+    "start": "Mon Jun 08 20:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Mon Jun 08 09:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Tue Jun 09 09:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1421243,
+      "anger": 111416,
+      "fear": 80549,
+      "joy": 766773,
+      "love": 110323,
+      "other": 257967,
+      "sadness": 313945,
+      "surprise": 87890
+    }
+  },
+  {
+    "start": "Mon Jun 08 21:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Mon Jun 08 10:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Tue Jun 09 10:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1394137,
+      "anger": 110764,
+      "fear": 76292,
+      "joy": 750935,
+      "love": 107348,
+      "other": 254224,
+      "sadness": 307908,
+      "surprise": 87836
+    }
+  },
+  {
+    "start": "Mon Jun 08 22:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Mon Jun 08 11:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Tue Jun 09 11:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1371114,
+      "anger": 112606,
+      "fear": 75296,
+      "joy": 735403,
+      "love": 102914,
+      "other": 252129,
+      "sadness": 306758,
+      "surprise": 84756
+    }
+  },
+  {
+    "start": "Mon Jun 08 23:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Mon Jun 08 12:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Tue Jun 09 12:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1336619,
+      "anger": 103273,
+      "fear": 71771,
+      "joy": 722788,
+      "love": 101806,
+      "other": 239362,
+      "sadness": 296769,
+      "surprise": 82311
+    }
+  },
+  {
+    "start": "Tue Jun 09 00:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Mon Jun 08 13:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Tue Jun 09 13:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1320252,
+      "anger": 96792,
+      "fear": 68825,
+      "joy": 719635,
+      "love": 96310,
+      "other": 236317,
+      "sadness": 291122,
+      "surprise": 82107
+    }
+  },
+  {
+    "start": "Tue Jun 09 01:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Mon Jun 08 14:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Tue Jun 09 14:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1322338,
+      "anger": 91485,
+      "fear": 69811,
+      "joy": 730982,
+      "love": 93449,
+      "other": 242402,
+      "sadness": 289302,
+      "surprise": 82419
+    }
+  },
+  {
+    "start": "Tue Jun 09 02:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Mon Jun 08 15:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Tue Jun 09 15:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1323237,
+      "anger": 89955,
+      "fear": 70584,
+      "joy": 730541,
+      "love": 93222,
+      "other": 244971,
+      "sadness": 293170,
+      "surprise": 81076
+    }
+  },
+  {
+    "start": "Tue Jun 09 03:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Mon Jun 08 16:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Tue Jun 09 16:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1300162,
+      "anger": 87532,
+      "fear": 67966,
+      "joy": 716932,
+      "love": 90658,
+      "other": 245346,
+      "sadness": 278888,
+      "surprise": 79114
+    }
+  },
+  {
+    "start": "Tue Jun 09 04:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Mon Jun 08 17:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Tue Jun 09 17:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1234444,
+      "anger": 79686,
+      "fear": 62002,
+      "joy": 689695,
+      "love": 90064,
+      "other": 229790,
+      "sadness": 255760,
+      "surprise": 75238
+    }
+  },
+  {
+    "start": "Tue Jun 09 05:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Mon Jun 08 18:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Tue Jun 09 18:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1169832,
+      "anger": 71287,
+      "fear": 58524,
+      "joy": 659235,
+      "love": 88256,
+      "other": 220675,
+      "sadness": 233206,
+      "surprise": 71732
+    }
+  },
+  {
+    "start": "Tue Jun 09 06:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Mon Jun 08 19:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Tue Jun 09 19:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1096827,
+      "anger": 62081,
+      "fear": 51730,
+      "joy": 633899,
+      "love": 84298,
+      "other": 202074,
+      "sadness": 212218,
+      "surprise": 66423
+    }
+  },
+  {
+    "start": "Tue Jun 09 07:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Mon Jun 08 20:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Tue Jun 09 20:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1051900,
+      "anger": 56637,
+      "fear": 45726,
+      "joy": 620222,
+      "love": 83686,
+      "other": 190931,
+      "sadness": 196133,
+      "surprise": 62803
+    }
+  },
+  {
+    "start": "Tue Jun 09 08:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Mon Jun 08 21:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Tue Jun 09 21:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1032600,
+      "anger": 52199,
+      "fear": 41552,
+      "joy": 608938,
+      "love": 80101,
+      "other": 193088,
+      "sadness": 188544,
+      "surprise": 64936
+    }
+  },
+  {
+    "start": "Tue Jun 09 09:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Mon Jun 08 22:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Tue Jun 09 22:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1035302,
+      "anger": 49365,
+      "fear": 40206,
+      "joy": 616563,
+      "love": 77646,
+      "other": 190141,
+      "sadness": 192130,
+      "surprise": 67477
+    }
+  },
+  {
+    "start": "Tue Jun 09 10:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Mon Jun 08 23:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Tue Jun 09 23:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1083783,
+      "anger": 52994,
+      "fear": 42128,
+      "joy": 651729,
+      "love": 79429,
+      "other": 197324,
+      "sadness": 198203,
+      "surprise": 70242
+    }
+  },
+  {
+    "start": "Tue Jun 09 11:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Tue Jun 09 00:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Wed Jun 10 00:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1187738,
+      "anger": 61818,
+      "fear": 48955,
+      "joy": 697416,
+      "love": 88531,
+      "other": 226933,
+      "sadness": 225449,
+      "surprise": 75802
+    }
+  },
+  {
+    "start": "Tue Jun 09 12:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Tue Jun 09 01:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Wed Jun 10 01:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1299342,
+      "anger": 72771,
+      "fear": 57523,
+      "joy": 756706,
+      "love": 96661,
+      "other": 245051,
+      "sadness": 253558,
+      "surprise": 82198
+    }
+  },
+  {
+    "start": "Tue Jun 09 13:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Tue Jun 09 02:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Wed Jun 10 02:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1405218,
+      "anger": 78209,
+      "fear": 65581,
+      "joy": 812704,
+      "love": 104135,
+      "other": 264219,
+      "sadness": 286235,
+      "surprise": 88478
+    }
+  },
+  {
+    "start": "Tue Jun 09 14:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Tue Jun 09 03:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Wed Jun 10 03:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1642817,
+      "anger": 98228,
+      "fear": 83798,
+      "joy": 964582,
+      "love": 132412,
+      "other": 319481,
+      "sadness": 360811,
+      "surprise": 104056
+    }
+  },
+  {
+    "start": "Tue Jun 09 15:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Tue Jun 09 04:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Wed Jun 10 04:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1380833,
+      "anger": 76727,
+      "fear": 77225,
+      "joy": 811138,
+      "love": 96890,
+      "other": 259568,
+      "sadness": 284272,
+      "surprise": 93205
+    }
+  },
+  {
+    "start": "Tue Jun 09 16:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Tue Jun 09 05:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Wed Jun 10 05:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1468971,
+      "anger": 90599,
+      "fear": 75376,
+      "joy": 831865,
+      "love": 112176,
+      "other": 286899,
+      "sadness": 307827,
+      "surprise": 91326
+    }
+  },
+  {
+    "start": "Tue Jun 09 17:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Tue Jun 09 06:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Wed Jun 10 06:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1452990,
+      "anger": 89834,
+      "fear": 75317,
+      "joy": 830249,
+      "love": 109663,
+      "other": 277395,
+      "sadness": 300885,
+      "surprise": 94562
+    }
+  },
+  {
+    "start": "Tue Jun 09 18:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Tue Jun 09 07:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Wed Jun 10 07:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1438843,
+      "anger": 87932,
+      "fear": 75290,
+      "joy": 821915,
+      "love": 106440,
+      "other": 266497,
+      "sadness": 302360,
+      "surprise": 90796
+    }
+  },
+  {
+    "start": "Tue Jun 09 19:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Tue Jun 09 08:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Wed Jun 10 08:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1407431,
+      "anger": 86425,
+      "fear": 75500,
+      "joy": 802427,
+      "love": 99619,
+      "other": 260944,
+      "sadness": 297009,
+      "surprise": 87505
+    }
+  },
+  {
+    "start": "Tue Jun 09 20:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Tue Jun 09 09:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Wed Jun 10 09:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1400838,
+      "anger": 86901,
+      "fear": 73297,
+      "joy": 793903,
+      "love": 95816,
+      "other": 264970,
+      "sadness": 301200,
+      "surprise": 87178
+    }
+  },
+  {
+    "start": "Tue Jun 09 21:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Tue Jun 09 10:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Wed Jun 10 10:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1387542,
+      "anger": 83217,
+      "fear": 73298,
+      "joy": 781056,
+      "love": 94090,
+      "other": 258802,
+      "sadness": 304723,
+      "surprise": 88171
+    }
+  },
+  {
+    "start": "Tue Jun 09 22:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Tue Jun 09 11:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Wed Jun 10 11:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1358906,
+      "anger": 80351,
+      "fear": 69198,
+      "joy": 760009,
+      "love": 93907,
+      "other": 258179,
+      "sadness": 300053,
+      "surprise": 83440
+    }
+  },
+  {
+    "start": "Tue Jun 09 23:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Tue Jun 09 12:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Wed Jun 10 12:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1326319,
+      "anger": 76182,
+      "fear": 64889,
+      "joy": 745444,
+      "love": 88256,
+      "other": 262207,
+      "sadness": 288875,
+      "surprise": 78834
+    }
+  },
+  {
+    "start": "Wed Jun 10 00:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Tue Jun 09 13:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Wed Jun 10 13:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1336022,
+      "anger": 75427,
+      "fear": 67214,
+      "joy": 747084,
+      "love": 84968,
+      "other": 272042,
+      "sadness": 296779,
+      "surprise": 85408
+    }
+  },
+  {
+    "start": "Wed Jun 10 01:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Tue Jun 09 14:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Wed Jun 10 14:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1335520,
+      "anger": 73893,
+      "fear": 69000,
+      "joy": 758385,
+      "love": 86509,
+      "other": 266209,
+      "sadness": 289838,
+      "surprise": 87491
+    }
+  },
+  {
+    "start": "Wed Jun 10 02:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Tue Jun 09 15:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Wed Jun 10 15:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1332590,
+      "anger": 78277,
+      "fear": 63644,
+      "joy": 756113,
+      "love": 87053,
+      "other": 265759,
+      "sadness": 282948,
+      "surprise": 83636
+    }
+  },
+  {
+    "start": "Wed Jun 10 03:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Tue Jun 09 16:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Wed Jun 10 16:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1296888,
+      "anger": 77218,
+      "fear": 58747,
+      "joy": 737532,
+      "love": 88944,
+      "other": 254487,
+      "sadness": 269632,
+      "surprise": 82162
+    }
+  },
+  {
+    "start": "Wed Jun 10 04:00:00 +0000 2020",
+    "earliestLocalStart": {
+      "start": "Tue Jun 09 17:00:00 -1100 2020",
+      "zone": "oceania/americanSamoa"
+    },
+    "latestLocalStart": {
+      "start": "Wed Jun 10 17:00:00 +1300 2020",
+      "zone": "oceania/samoa"
+    },
+    "counts": {
+      "*": 1227792,
+      "anger": 71319,
+      "fear": 54947,
+      "joy": 706529,
+      "love": 91604,
+      "other": 243464,
+      "sadness": 246873,
+      "surprise": 77916
+    }
+  }
+]

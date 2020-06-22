@@ -5,6 +5,9 @@ import am4themes_animated from "@amcharts/amcharts4/themes/animated";
 import KalmanFilter from 'kalmanjs';
 
 import dataset from '../../output/raw/1592792609964|01-01-2020|31-05-2020|hour.json';
+import dataset2 from '../../output/raw/1592797384270|05-05-2020|25-05-2020|hour.json';
+import dataset3 from '../../output/raw/1592796342880|01-01-2020|21-06-2020|hour.json';
+
 
 am4core.useTheme(am4themes_animated);
 
@@ -58,8 +61,9 @@ export class AppComponent implements AfterViewInit, OnDestroy {
   }
 
   private calcChartData() {
+    const combinedData = [...dataset, ...dataset2, ...dataset3];
     let data = [];
-    for (const date of dataset) {
+    for (const date of combinedData) {
       data.push({
         date: new Date(date.start),
         value: (date.counts.fear) / date.counts['*'],

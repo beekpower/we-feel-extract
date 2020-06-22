@@ -3,8 +3,8 @@ const moment = require('moment');
 const fs = require('fs');
 
 // Change these for download date range;
-const START_DATE = '01-01-2020';
-const END_DATE = '31-05-2020';
+const START_DATE = '05-05-2020';
+const END_DATE = '25-05-2020';
 const GRANULARITY = 'hour';
 
 const filePath = './output/raw/' + Date.now() + '|' + START_DATE + '|' + END_DATE + '|' + GRANULARITY + '.json';
