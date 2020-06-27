@@ -47,7 +47,7 @@ export class AppComponent implements AfterViewInit {
   }
 
   async ngAfterViewInit() {
-    this.tickerData = await this.getTickerData("AAPL", "06-06-2020", "24-06-2020");
+    this.tickerData = await this.getTickerData("TVIX", "06-06-2020", "24-06-2020");
     this.twitterData = this.calcChartData();
   }
 
