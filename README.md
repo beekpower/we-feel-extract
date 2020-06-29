@@ -9,3 +9,8 @@ JS Scripts to extract and visualize data from http://wefeel.csiro.au/
 
 ### Techniques
 * Granger Causality Analysis
+
+### Stock Market Data APIs
+* [Tiingo](https://www.tiingo.com/)
+* [IEX Cloud](https://iexcloud.io/)
+* [Finnhub](https://finnhub.io/)
