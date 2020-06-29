@@ -6,10 +6,10 @@ import am4themes_animated from "@amcharts/amcharts4/themes/animated";
 am4core.useTheme(am4themes_animated);
 
 @Component({
-  selector: "ticker-graph",
-  templateUrl: "./ticker-graph.component.html",
+  selector: "date-graph",
+  templateUrl: "./date-graph.component.html",
 })
-export class TickerGraphComponent implements OnDestroy, OnChanges, AfterViewInit {
+export class DateGraphComponent implements OnDestroy, OnChanges, AfterViewInit {
   private chart: am4charts.XYChart;
   @Input() data;
   @ViewChild("chart") chartRef: ElementRef;
