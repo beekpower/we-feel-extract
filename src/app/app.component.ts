@@ -1,4 +1,4 @@
-import { Component, NgZone, AfterViewInit } from "@angular/core";
+import { Component, AfterViewInit } from "@angular/core";
 
 import KalmanFilter from 'kalmanjs';
 import moment from 'moment';
@@ -19,12 +19,14 @@ export class AppComponent implements AfterViewInit {
   private finnClient;
   public tickerData: any = [];
   public twitterData: any = [];
-  constructor(private zone: NgZone) {
+  private startDate = "08-06-2020";
+  private endDate = "27-06-2020";
+
+  constructor() {
     const api_key = finnhub.ApiClient.instance.authentications['api_key'];
-    api_key.apiKey = "brrc827rh5r9994jqbcg" 
+    api_key.apiKey = "brrc827rh5r9994jqbcg"
     this.finnClient = new finnhub.DefaultApi();
   }
-
 
   public getTickerData(ticker: string, startDate: string, endDate: string) {
     return new Promise((resolve, reject) => {
@@ -34,7 +36,7 @@ export class AppComponent implements AfterViewInit {
         const currentValues = []
         for (let i = 0; i < data.c.length; i++) {
           const value = data.c[i];
-          const date = moment.unix(data.t[i]).toDate(); 
+          const date = moment.unix(data.t[i]).toDate();
 
           currentValues.push({
             value,
@@ -42,13 +44,23 @@ export class AppComponent implements AfterViewInit {
           });
         }
         return resolve(currentValues);
-       });
+      });
     });
   }
 
   async ngAfterViewInit() {
-    this.tickerData = await this.getTickerData("TVIX", "06-06-2020", "24-06-2020");
-    this.twitterData = this.calcChartData();
+    this.tickerData = await this.getTickerData("TVIX", this.startDate, this.endDate);
+    this.twitterData = this.filterChartData(this.startDate, this.endDate, this.calcChartData());
+  }
+
+  private filterChartData(startDate: string, endDate: string, data) {
+    const start = moment(startDate, 'DD-MM-YYYY').toDate();
+    const end = moment(endDate, 'DD-MM-YYYY').toDate();
+
+    return data.filter(item => {
+      const { date } = item;
+      return date >= start && date <= end;
+    });
   }
 
   private calcChartData() {
@@ -61,7 +73,7 @@ export class AppComponent implements AfterViewInit {
       });
     }
 
-    const kalmanFilter = new KalmanFilter({R: 0.01, Q: 3});
+    const kalmanFilter = new KalmanFilter({ R: 0.01, Q: 3 });
     data = data.map((v) => {
       return { date: v.date, value: kalmanFilter.filter(v.value) };
     });
