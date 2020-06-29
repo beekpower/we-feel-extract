@@ -68,7 +68,7 @@ export class AppComponent implements AfterViewInit {
     let data = [];
     for (const date of combinedData) {
       data.push({
-        date: new Date(date.start),
+        date: moment(date.start, 'ddd MMM DD HH:mm:ss ZZZZ YYYY').toDate(),
         value: (date.counts.fear) / date.counts['*'],
       });
     }
