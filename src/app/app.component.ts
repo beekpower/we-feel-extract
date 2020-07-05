@@ -37,6 +37,7 @@ export class AppComponent implements AfterViewInit {
         for (let i = 0; i < data.c.length; i++) {
           const value = data.c[i];
           const date = moment.unix(data.t[i]).toDate();
+          console.log(date.toString());
 
           currentValues.push({
             value,
@@ -67,8 +68,9 @@ export class AppComponent implements AfterViewInit {
     const combinedData = [...dataset, ...dataset2, ...dataset3, ...dataset4];
     let data = [];
     for (const date of combinedData) {
+      console.log(moment(date.start, 'ddd MMM DD HH:mm:ss ZZZZ YYYY').toDate())
       data.push({
-        date: moment(date.start, 'ddd MMM DD HH:mm:ss ZZZZ YYYY').toDate(),
+        date:moment.unix(moment(date.start, 'ddd MMM DD HH:mm:ss ZZZZ YYYY').unix()).toDate(),
         value: (date.counts.fear) / date.counts['*'],
       });
     }
