@@ -3,7 +3,7 @@ import { Component, AfterViewInit } from "@angular/core";
 import KalmanFilter from 'kalmanjs';
 import moment from 'moment';
 
-import dataset from '../../output/raw/postgres.json';
+import dataset from '../../output/postgres.json';
 
 import * as finnhub from 'finnhub';
 
