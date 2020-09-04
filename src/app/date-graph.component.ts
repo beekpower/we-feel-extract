@@ -11,6 +11,7 @@ am4core.useTheme(am4themes_animated);
 })
 export class DateGraphComponent implements OnDestroy, OnChanges, AfterViewInit {
   private chart: am4charts.XYChart;
+  private colors = ['#080808', '#c242c0', '#f55442', '#c242c0', '#f55442', '#c242c0', '#f55442']
   @Input() data;
   @ViewChild("chart") chartRef: ElementRef;
   constructor(private zone: NgZone) { }
@@ -18,6 +19,12 @@ export class DateGraphComponent implements OnDestroy, OnChanges, AfterViewInit {
   ngOnChanges() {
     this.zone.runOutsideAngular(() => {
       if (this.chartRef) {
+        for (let i = 0; i < this.data.length; i++) {
+          const el = this.data[i];
+          el.lineColor = this.colors[el.date.getDay()];
+        }
+   
+
         this.chart.data = this.data;
       }
     });
@@ -45,6 +52,8 @@ export class DateGraphComponent implements OnDestroy, OnChanges, AfterViewInit {
     series.dataFields.valueY = "value";
     series.tooltipText = "Visits: [bold]{valueY}[/]";
     series.fillOpacity = 0.3;
+    series.propertyFields.stroke = "lineColor";
+    series.propertyFields.fill = "lineColor";
 
     chart.cursor = new am4charts.XYCursor();
     chart.cursor.lineY.opacity = 0;
