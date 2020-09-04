@@ -3,10 +3,7 @@ import { Component, AfterViewInit } from "@angular/core";
 import KalmanFilter from 'kalmanjs';
 import moment from 'moment';
 
-import dataset from '../../output/raw/1592792609964|01-01-2020|31-05-2020|hour.json';
-import dataset2 from '../../output/raw/1592797384270|05-05-2020|25-05-2020|hour.json';
-import dataset3 from '../../output/raw/1592796342880|01-01-2020|21-06-2020|hour.json';
-import dataset4 from '../../output/raw/1593226428081|21-06-2020|26-06-2020|hour.json';
+import dataset from '../../output/raw/postgres.json';
 
 import * as finnhub from 'finnhub';
 
@@ -19,8 +16,8 @@ export class AppComponent implements AfterViewInit {
   private finnClient;
   public tickerData: any = [];
   public twitterData: any = [];
-  private startDate = "08-06-2020";
-  private endDate = "27-06-2020";
+  private startDate = "01-06-2020";
+  private endDate = "04-09-2020";
 
   constructor() {
     const api_key = finnhub.ApiClient.instance.authentications['api_key'];
@@ -50,7 +47,7 @@ export class AppComponent implements AfterViewInit {
   }
 
   async ngAfterViewInit() {
-    this.tickerData = await this.getTickerData("TVIX", this.startDate, this.endDate);
+    // this.tickerData = await this.getTickerData("TVIX", this.startDate, this.endDate);
     this.twitterData = this.filterChartData(this.startDate, this.endDate, this.calcChartData());
   }
 
@@ -65,13 +62,13 @@ export class AppComponent implements AfterViewInit {
   }
 
   private calcChartData() {
-    const combinedData = [...dataset, ...dataset2, ...dataset3, ...dataset4];
+    const combinedData = [...dataset];
     let data = [];
     for (const date of combinedData) {
-      console.log(moment(date.start, 'ddd MMM DD HH:mm:ss ZZZZ YYYY').toDate())
+      console.log(moment(date.timestamp).toDate())
       data.push({
-        date:moment.unix(moment(date.start, 'ddd MMM DD HH:mm:ss ZZZZ YYYY').unix()).toDate(),
-        value: (date.counts.fear) / date.counts['*'],
+        date:moment.unix(moment(date.timestamp).unix()).toDate(),
+        value: (date.fear) / date.total,
       });
     }
 
