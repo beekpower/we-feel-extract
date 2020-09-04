@@ -16,8 +16,8 @@ export class AppComponent implements AfterViewInit {
   private finnClient;
   public tickerData: any = [];
   public twitterData: any = [];
-  private startDate = "01-06-2020";
-  private endDate = "04-09-2020";
+  private startDate = "01-01-2020";
+  private endDate = "30-12-2020";
 
   constructor() {
     const api_key = finnhub.ApiClient.instance.authentications['api_key'];

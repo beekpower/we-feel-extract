@@ -3,8 +3,8 @@ const axios = require('axios');
 const moment = require('moment');
 
 // Change these for download date range;
-const START_DATE = '04-06-2020';
-const END_DATE = '04-09-2020';
+const START_DATE = '01-01-2020';
+const END_DATE = '05-06-2020';
 const GRANULARITY = 'hour';
 
 const sequelize = new Sequelize('postgres', 'postgres', 'MXXVIJhemFts', {
